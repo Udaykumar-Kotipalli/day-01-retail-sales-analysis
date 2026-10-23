@@ -1,0 +1,22 @@
+{
+  "dataset_type": "synthetic",
+  "currency": "INR",
+  "orders": 1198,
+  "units_sold": 2619,
+  "gross_sales_inr": 3479901.54,
+  "discount_amount_inr": 241137.48,
+  "net_sales_inr": 3238764.06,
+  "average_order_value_inr": 2703.48,
+  "average_discount_pct": 6.88,
+  "cleaning_audit": {
+    "input_rows": 1200,
+    "rows_after_required_field_check": 1200,
+    "rows_after_valid_value_check": 1198,
+    "duplicate_order_ids_removed": 0,
+    "final_rows": 1198,
+    "rows_removed_total": 2
+  },
+  "top_category_by_net_sales": "Electronics",
+  "top_region_by_net_sales": "South",
+  "highest_average_order_value_customer_type": "New"
+}

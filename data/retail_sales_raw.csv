@@ -1,0 +1,1201 @@
+order_id,order_date,region,category,product,quantity,unit_price_inr,discount_pct,payment_method,customer_type
+ORD-00001,2025-10-07,West,Clothing,Hoodie,3,1741.26,0.05,Card,New
+ORD-00002,2025-03-20,East,Beauty,Face Wash,2,322.12,0.2,Card,New
+ORD-00003,2025-10-12,Central,Clothing,Hoodie,1,286.14,0.0,Card,Returning
+ORD-00004,2025-01-10,East,Beauty,Shampoo,1,271.34,0.1,Cash,New
+ORD-00005,2025-05-21,East,Clothing,Sports Socks,5,575.07,0.15,Card,Returning
+ORD-00006,2025-03-01,East,Home & Kitchen,Storage Box,1,589.84,0.0,UPI,New
+ORD-00007,2025-10-27,East,Electronics,Webcam,2,2590.93,0.0,UPI,New
+ORD-00008,2025-02-17,Central,Home & Kitchen,Desk Lamp,4,255.83,0.05,UPI,Returning
+ORD-00009,2025-08-28,East,Home & Kitchen,Desk Lamp,3,717.04,0.05,Card,New
+ORD-00010,2025-01-20,South,Clothing,Jeans,3,368.5,0.15,Card,Returning
+ORD-00011,2025-01-21,South,Electronics,Wireless Mouse,1,559.01,0.0,Cash,New
+ORD-00012,2025-04-15,South,Electronics,Webcam,5,3867.85,0.15,Net Banking,New
+ORD-00013,2025-07-20,South,Sports,Gym Gloves,3,919.07,0.1,Net Banking,New
+ORD-00014,2025-10-25,Central,Electronics,USB-C Hub,2,2187.84,0.05,UPI,Returning
+ORD-00015,2025-09-23,East,Clothing,Jeans,1,2150.66,0.1,Card,Returning
+ORD-00016,2025-11-28,Central,Beauty,Face Wash,1,410.43,0.1,UPI,Returning
+ORD-00017,2025-11-13,East,Sports,Skipping Rope,3,430.49,0.2,Cash,New
+ORD-00018,2025-03-22,North,Clothing,Hoodie,2,1269.08,0.15,Cash,Returning
+ORD-00019,2025-08-17,South,Home & Kitchen,Water Bottle,2,970.61,0.15,UPI,New
+ORD-00020,2025-09-14,West,Home & Kitchen,Storage Box,1,954.48,0.15,Card,Returning
+ORD-00021,2025-09-02,North,Clothing,Jeans,4,1355.8,0.15,UPI,Returning
+ORD-00022,2025-04-13,Central,Beauty,Sunscreen,2,102.5,0.0,Card,New
+ORD-00023,2025-02-16,West,Sports,Gym Gloves,2,1702.42,0.0,Card,New
+ORD-00024,2025-09-11,Central,Beauty,Moisturizer,4,386.46,0.1,UPI,Returning
+ORD-00025,2025-03-21,West,Electronics,Webcam,2,3896.35,0.05,Card,New
+ORD-00026,2025-03-15,North,Sports,Skipping Rope,1,262.28,0.1,UPI,Returning
+ORD-00027,2025-11-28,West,Sports,Resistance Bands,5,1135.95,0.0,UPI,New
+ORD-00028,2025-10-02,East,Beauty,Shampoo,1,836.93,0.1,Card,New
+ORD-00029,2025-01-13,West,Sports,Gym Gloves,2,1345.69,0.1,UPI,Returning
+ORD-00030,2025-07-28,North,Sports,Resistance Bands,2,1372.04,0.15,UPI,New
+ORD-00031,2025-06-22,South,Home & Kitchen,Storage Box,3,666.68,0.2,Card,New
+ORD-00032,2025-07-28,North,Sports,Yoga Mat,1,1507.23,0.15,UPI,Returning
+ORD-00033,2025-07-05,West,Home & Kitchen,Storage Box,1,505.14,0.0,UPI,New
+ORD-00034,2025-11-15,North,Sports,Resistance Bands,4,1649.29,0.0,Net Banking,New
+ORD-00035,2025-02-27,South,Sports,Yoga Mat,1,323.69,0.15,Card,New
+ORD-00036,2025-03-20,South,Clothing,T-Shirt,1,509.88,0.2,UPI,New
+ORD-00037,2025-01-15,South,Electronics,Webcam,2,802.57,0.15,Card,Returning
+ORD-00038,2025-06-05,West,Sports,Yoga Mat,1,1057.8,0.05,UPI,New
+ORD-00039,2025-10-07,North,Clothing,Sports Socks,2,1822.8,0.1,UPI,New
+ORD-00040,2025-05-18,East,Beauty,Sunscreen,1,104.93,0.15,Card,New
+ORD-00041,2025-01-05,North,Beauty,Sunscreen,1,858.58,0.1,UPI,New
+ORD-00042,2025-01-03,,Home & Kitchen,Storage Box,3,829.82,0.1,UPI,Returning
+ORD-00043,2025-04-21,West,Sports,Yoga Mat,1,334.66,0.0,UPI,New
+ORD-00044,2025-07-04,West,Home & Kitchen,Lunch Box,3,1056.89,0.2,UPI,New
+ORD-00045,2025-01-15,South,Home & Kitchen,Desk Lamp,4,362.58,0.0,Cash,New
+ORD-00046,2025-07-27,South,Clothing,Hoodie,1,1562.79,0.05,UPI,Returning
+ORD-00047,2025-08-01,West,Clothing,T-Shirt,2,369.84,0.1,UPI,New
+ORD-00048,2025-11-22,South,Electronics,Wireless Mouse,1,956.52,0.2,UPI,Returning
+ORD-00049,2025-03-05,North,Clothing,Sports Socks,5,527.88,0.1,Cash,Returning
+ORD-00050,2025-07-27,Central,Beauty,Sunscreen,2,668.24,0.1,UPI,New
+ORD-00051,2025-06-13,Central,Beauty,Face Wash,2,409.26,0.0,UPI,New
+ORD-00052,2025-03-12,North,Electronics,USB-C Hub,1,2778.46,0.1,Card,Returning
+ORD-00053,2025-02-01,Central,Sports,Skipping Rope,4,636.68,0.2,UPI,New
+ORD-00054,2025-09-10,North,Home & Kitchen,Storage Box,2,1156.06,0.05,Cash,New
+ORD-00055,2025-08-01,South,Beauty,Moisturizer,1,160.28,0.05,UPI,Returning
+ORD-00056,2025-05-08,Central,Home & Kitchen,Water Bottle,4,850.97,0.05,Net Banking,New
+ORD-00057,2025-05-03,North,Beauty,Sunscreen,3,655.92,0.0,Card,New
+ORD-00058,2025-01-03,East,Clothing,Sports Socks,1,271.41,0.0,UPI,Returning
+ORD-00059,2025-06-16,South,Sports,Yoga Mat,1,884.89,0.0,UPI,Returning
+ORD-00060,2025-09-03,North,Home & Kitchen,Storage Box,2,853.25,0.05,UPI,Returning
+ORD-00061,2025-03-24,South,Clothing,Jeans,2,1331.25,0.0,Net Banking,New
+ORD-00062,2025-04-16,West,Electronics,Wireless Mouse,1,2809.61,0.0,UPI,Returning
+ORD-00063,2025-10-19,Central,Home & Kitchen,Lunch Box,5,1016.07,0.0,UPI,Returning
+ORD-00064,2025-11-11,West,Electronics,Wireless Mouse,4,2412.68,0.1,UPI,Returning
+ORD-00065,2025-08-08,East,Home & Kitchen,Storage Box,1,847.41,0.1,UPI,New
+ORD-00066,2025-05-12,Central,Clothing,Jeans,4,1172.84,0.1,Net Banking,New
+ORD-00067,2025-05-14,West,Beauty,Face Wash,4,366.9,0.0,Card,New
+ORD-00068,2025-06-24,East,Beauty,Sunscreen,1,469.03,0.0,Net Banking,New
+ORD-00069,2025-02-08,Central,Electronics,Bluetooth Speaker,4,3477.88,0.2,Net Banking,New
+ORD-00070,2025-07-09,East,Home & Kitchen,Desk Lamp,4,756.6,0.0,UPI,Returning
+ORD-00071,2025-03-22,West,Electronics,USB-C Hub,2,532.36,0.0,UPI,New
+ORD-00072,2025-05-02,North,Sports,Yoga Mat,3,1022.67,0.1,Card,Returning
+ORD-00073,2025-12-14,North,Clothing,Jeans,3,261.92,0.1,UPI,Returning
+ORD-00074,2025-01-05,North,Clothing,Jeans,1,1774.02,0.2,UPI,Returning
+ORD-00075,2025-12-08,North,Beauty,Moisturizer,2,727.23,0.1,UPI,Returning
+ORD-00076,2025-03-28,East,Home & Kitchen,Storage Box,4,1121.88,0.15,UPI,Returning
+ORD-00077,2025-05-25,West,Home & Kitchen,Storage Box,3,662.24,0.0,UPI,Returning
+ORD-00078,2025-11-11,South,Beauty,Sunscreen,2,574.64,0.2,Card,Returning
+ORD-00079,2025-09-20,Central,Home & Kitchen,Water Bottle,1,630.44,0.15,UPI,Returning
+ORD-00080,2025-11-16,South,Home & Kitchen,Water Bottle,1,787.01,0.0,UPI,New
+ORD-00081,2025-10-01,Central,Clothing,Jeans,3,252.48,0.0,UPI,Returning
+ORD-00082,2025-02-20,North,Home & Kitchen,Desk Lamp,1,688.09,0.1,UPI,Returning
+ORD-00083,2025-01-23,North,Electronics,Webcam,3,3041.85,0.15,Cash,New
+ORD-00084,2025-03-08,South,Electronics,Wireless Mouse,4,2493.25,0.0,UPI,Returning
+ORD-00085,2025-06-28,South,Sports,Gym Gloves,5,1380.9,0.1,Cash,Returning
+ORD-00086,2025-06-17,South,Beauty,Face Wash,1,493.77,0.1,Card,New
+ORD-00087,2025-11-21,South,Home & Kitchen,Water Bottle,3,183.21,0.0,Net Banking,New
+ORD-00088,2025-02-11,North,Sports,Yoga Mat,4,339.02,0.0,UPI,New
+ORD-00089,2025-02-20,North,Clothing,Hoodie,2,651.52,0.15,Card,New
+ORD-00090,2025-01-08,South,Home & Kitchen,Lunch Box,3,197.43,0.1,UPI,Returning
+ORD-00091,2025-08-10,North,Clothing,Hoodie,2,558.77,0.15,Card,New
+ORD-00092,2025-10-03,North,Sports,Gym Gloves,0,398.02,0.0,Card,New
+ORD-00093,2025-07-27,West,Home & Kitchen,Storage Box,3,411.41,0.2,Card,New
+ORD-00094,2025-05-11,South,Electronics,Webcam,1,3194.75,0.1,UPI,New
+ORD-00095,2025-06-23,Central,Sports,Skipping Rope,5,1438.46,0.0,UPI,New
+ORD-00096,2025-10-05,East,Beauty,Face Wash,1,658.74,0.15,Net Banking,Returning
+ORD-00097,2025-11-04,Central,Sports,Resistance Bands,1,567.18,0.1,UPI,New
+ORD-00098,2025-01-06,East,Sports,Yoga Mat,1,743.93,0.0,Net Banking,Returning
+ORD-00099,2025-10-29,North,Clothing,Hoodie,2,1410.49,0.05,Card,New
+ORD-00100,2025-02-07,North,Beauty,Shampoo,1,865.41,0.0,UPI,Returning
+ORD-00101,2025-04-28,West,Home & Kitchen,Lunch Box,2,1113.07,0.05,UPI,New
+ORD-00102,2025-10-21,West,Home & Kitchen,Water Bottle,4,359.36,0.1,Card,Returning
+ORD-00103,2025-05-30,North,Sports,Gym Gloves,4,1443.31,0.0,UPI,Returning
+ORD-00104,2025-05-13,Central,Clothing,Hoodie,4,720.87,0.05,Card,New
+ORD-00105,2025-09-17,East,Clothing,Sports Socks,1,1971.95,0.0,UPI,Returning
+ORD-00106,2025-11-02,Central,Home & Kitchen,Water Bottle,1,1062.86,0.15,UPI,Returning
+ORD-00107,2025-02-10,East,Sports,Skipping Rope,2,1165.29,0.1,Card,New
+ORD-00108,2025-02-26,West,Home & Kitchen,Lunch Box,2,954.42,0.0,Card,New
+ORD-00109,2025-02-16,South,Sports,Yoga Mat,3,727.01,0.2,UPI,New
+ORD-00110,2025-04-09,East,Electronics,Wireless Mouse,2,3459.29,0.2,UPI,New
+ORD-00111,2025-09-05,North,Electronics,Wireless Mouse,5,1147.96,0.0,Card,Returning
+ORD-00112,2025-03-22,Central,Beauty,Shampoo,1,674.06,0.05,Card,Returning
+ORD-00113,2025-05-12,West,Home & Kitchen,Water Bottle,3,463.87,0.15,UPI,New
+ORD-00114,2025-04-22,South,Sports,Yoga Mat,2,820.08,0.0,UPI,Returning
+ORD-00115,2025-06-01,East,Electronics,Webcam,1,1424.79,0.2,Net Banking,New
+ORD-00116,2025-05-20,North,Beauty,Face Wash,1,480.88,0.2,Card,New
+ORD-00117,2025-09-19,South,Home & Kitchen,Desk Lamp,1,962.37,0.0,Cash,New
+ORD-00118,2025-07-08,South,Electronics,Wireless Mouse,1,789.74,0.1,UPI,Returning
+ORD-00119,2025-11-02,North,Clothing,Sports Socks,4,1952.24,0.0,Card,Returning
+ORD-00120,2025-06-18,North,Clothing,Sports Socks,3,816.38,0.0,Cash,Returning
+ORD-00121,2025-12-08,East,Electronics,Bluetooth Speaker,2,2856.09,0.15,UPI,New
+ORD-00122,2025-10-09,West,Sports,Yoga Mat,3,910.08,0.05,UPI,Returning
+ORD-00123,2025-10-11,North,Electronics,USB-C Hub,1,4212.65,0.15,UPI,New
+ORD-00124,2025-07-18,North,Home & Kitchen,Lunch Box,2,309.57,0.0,UPI,New
+ORD-00125,2025-01-15,South,Electronics,Wireless Mouse,2,1190.42,0.05,UPI,New
+ORD-00126,2025-10-06,Central,Electronics,USB-C Hub,4,3636.68,0.1,UPI,New
+ORD-00127,2025-05-10,North,Clothing,Hoodie,1,264.58,0.0,Cash,Returning
+ORD-00128,2025-07-26,East,Clothing,Jeans,2,599.79,0.0,UPI,New
+ORD-00129,2025-11-15,North,Beauty,Sunscreen,1,675.58,0.0,Net Banking,New
+ORD-00130,2025-04-20,South,Beauty,Moisturizer,2,131.07,0.0,Card,New
+ORD-00131,2025-07-10,South,Home & Kitchen,Lunch Box,1,937.82,0.0,Card,Returning
+ORD-00132,2025-10-20,South,Sports,Resistance Bands,3,592.31,0.0,UPI,Returning
+ORD-00133,2025-10-22,North,Clothing,T-Shirt,1,2018.26,0.0,UPI,New
+ORD-00134,2025-02-14,East,Beauty,Sunscreen,4,444.97,0.0,UPI,Returning
+ORD-00135,2025-09-06,Central,Home & Kitchen,Lunch Box,2,205.43,0.05,Card,New
+ORD-00136,2025-03-14,South,Sports,Yoga Mat,1,1743.2,0.0,UPI,Returning
+ORD-00137,2025-04-24,East,Electronics,USB-C Hub,5,2802.95,0.1,Cash,New
+ORD-00138,2025-06-01,East,Beauty,Sunscreen,2,592.43,0.1,Card,Returning
+ORD-00139,2025-02-15,East,Clothing,T-Shirt,4,1772.03,0.1,UPI,Returning
+ORD-00140,2025-03-20,East,Electronics,Webcam,4,4331.56,0.1,Cash,New
+ORD-00141,2025-08-14,Central,Beauty,Sunscreen,3,494.05,0.0,Net Banking,New
+ORD-00142,2025-03-29,East,Sports,Resistance Bands,5,1008.98,0.0,Cash,New
+ORD-00143,2025-08-07,East,Home & Kitchen,Desk Lamp,3,154.33,0.1,UPI,New
+ORD-00144,2025-03-20,West,Sports,Gym Gloves,2,1325.84,0.0,Net Banking,New
+ORD-00145,2025-01-20,West,Home & Kitchen,Desk Lamp,1,1129.4,0.1,Card,New
+ORD-00146,2025-05-16,East,Electronics,USB-C Hub,1,3778.52,0.1,UPI,Returning
+ORD-00147,2025-08-05,South,Sports,Skipping Rope,1,1325.97,0.15,UPI,New
+ORD-00148,2025-06-01,East,Home & Kitchen,Desk Lamp,3,1063.33,0.0,UPI,New
+ORD-00149,2025-11-05,Central,Clothing,T-Shirt,2,780.48,0.05,UPI,New
+ORD-00150,2025-05-30,North,Clothing,Hoodie,1,690.86,0.05,Cash,New
+ORD-00151,2025-08-27,East,Home & Kitchen,Storage Box,1,1196.99,0.1,Cash,New
+ORD-00152,2025-01-16,North,Clothing,Jeans,3,1913.94,0.1,Card,New
+ORD-00153,2025-07-29,North,Home & Kitchen,Water Bottle,2,371.49,0.1,UPI,New
+ORD-00154,2025-12-17,East,Electronics,Webcam,2,2453.94,0.0,Card,Returning
+ORD-00155,2025-05-11,South,Beauty,Sunscreen,3,393.1,0.1,Card,New
+ORD-00156,2025-08-17,North,Home & Kitchen,Storage Box,1,491.45,0.05,UPI,Returning
+ORD-00157,2025-09-08,West,Beauty,Moisturizer,1,459.7,0.05,Net Banking,New
+ORD-00158,2025-06-30,West,Clothing,Sports Socks,1,315.65,0.15,Net Banking,New
+ORD-00159,2025-06-22,Central,Sports,Skipping Rope,1,443.54,0.05,UPI,Returning
+ORD-00160,2025-11-10,South,Home & Kitchen,Desk Lamp,2,1034.39,0.0,Card,New
+ORD-00161,2025-09-11,Central,Clothing,Sports Socks,2,928.51,0.0,Net Banking,Returning
+ORD-00162,2025-02-04,North,Electronics,Bluetooth Speaker,1,505.61,0.0,Cash,Returning
+ORD-00163,2025-02-05,South,Home & Kitchen,Lunch Box,1,960.95,0.15,Cash,Returning
+ORD-00164,2025-12-26,West,Beauty,Sunscreen,1,174.56,0.1,Card,Returning
+ORD-00165,2025-10-17,West,Electronics,Bluetooth Speaker,1,2959.12,0.05,UPI,Returning
+ORD-00166,2025-12-28,Central,Home & Kitchen,Lunch Box,4,235.86,0.05,UPI,Returning
+ORD-00167,2025-12-01,East,Clothing,Jeans,1,768.06,0.05,UPI,New
+ORD-00168,2025-09-15,West,Home & Kitchen,Water Bottle,2,708.74,0.15,UPI,New
+ORD-00169,2025-08-23,West,Sports,Yoga Mat,2,896.76,0.0,Card,New
+ORD-00170,2025-02-06,North,Home & Kitchen,Lunch Box,1,314.67,0.2,Cash,New
+ORD-00171,2025-12-10,Central,Clothing,Jeans,1,1201.28,0.1,Card,Returning
+ORD-00172,2025-03-31,West,Sports,Skipping Rope,2,405.68,0.0,UPI,Returning
+ORD-00173,2025-08-19,South,Sports,Gym Gloves,2,1668.79,0.0,UPI,New
+ORD-00174,2025-12-10,East,Home & Kitchen,Storage Box,1,544.22,0.15,UPI,Returning
+ORD-00175,2025-07-27,South,Electronics,Wireless Mouse,2,1963.9,0.15,UPI,New
+ORD-00176,2025-04-19,South,Sports,Yoga Mat,1,415.59,0.0,Card,New
+ORD-00177,2025-11-14,South,Home & Kitchen,Water Bottle,1,767.29,0.05,UPI,Returning
+ORD-00178,2025-05-02,West,Home & Kitchen,Desk Lamp,1,867.72,0.05,UPI,Returning
+ORD-00179,2025-12-28,West,Sports,Gym Gloves,1,300.59,0.1,UPI,New
+ORD-00180,2025-06-03,Central,Clothing,Jeans,2,839.26,0.15,Card,New
+ORD-00181,2025-12-19,South,Home & Kitchen,Desk Lamp,1,1075.35,0.15,UPI,New
+ORD-00182,2025-12-26,North,Clothing,Hoodie,3,1957.41,0.05,UPI,New
+ORD-00183,2025-03-12,North,Beauty,Sunscreen,4,662.36,0.0,Card,New
+ORD-00184,2025-04-22,North,Clothing,Hoodie,2,1723.85,0.15,UPI,New
+ORD-00185,2025-11-18,Central,Clothing,Hoodie,2,1141.57,0.1,UPI,New
+ORD-00186,2025-07-03,South,Beauty,Shampoo,3,275.07,0.0,Cash,New
+ORD-00187,2025-04-16,South,Clothing,Hoodie,2,576.21,0.0,Net Banking,New
+ORD-00188,2025-09-27,East,Home & Kitchen,Water Bottle,4,437.68,0.0,Net Banking,New
+ORD-00189,2025-02-10,West,Beauty,Shampoo,1,292.07,0.1,UPI,Returning
+ORD-00190,2025-07-16,West,Home & Kitchen,Lunch Box,1,575.54,0.1,UPI,Returning
+ORD-00191,2025-06-30,South,Electronics,Webcam,5,2967.35,0.0,Card,Returning
+ORD-00192,2025-12-24,South,Clothing,Jeans,2,670.99,0.0,UPI,Returning
+ORD-00193,2025-03-15,North,Sports,Resistance Bands,3,464.13,0.0,UPI,Returning
+ORD-00194,2025-02-13,East,Clothing,Hoodie,3,2038.75,0.15,UPI,New
+ORD-00195,2025-03-29,Central,Beauty,Sunscreen,2,196.63,0.0,UPI,Returning
+ORD-00196,2025-08-23,South,Beauty,Shampoo,2,827.44,0.1,UPI,Returning
+ORD-00197,2025-11-22,Central,Home & Kitchen,Water Bottle,2,1160.25,0.15,UPI,Returning
+ORD-00198,2025-03-18,North,Beauty,Face Wash,4,672.65,0.15,Card,New
+ORD-00199,2025-05-30,East,Electronics,USB-C Hub,1,4304.44,0.2,Cash,New
+ORD-00200,2025-04-22,North,Home & Kitchen,Water Bottle,2,696.39,0.0,Card,Returning
+ORD-00201,2025-09-25,South,Electronics,Bluetooth Speaker,1,1093.17,0.05,UPI,New
+ORD-00202,2025-07-07,Central,Home & Kitchen,Storage Box,1,530.9,0.0,Net Banking,New
+ORD-00203,2025-04-07,West,Clothing,Hoodie,2,929.73,0.0,UPI,New
+ORD-00204,2025-03-16,Central,Beauty,Moisturizer,2,195.45,0.15,Card,New
+ORD-00205,2025-05-18,North,Clothing,Hoodie,2,1668.4,0.0,UPI,New
+ORD-00206,2025-01-27,West,Clothing,Sports Socks,1,1102.47,0.0,UPI,New
+ORD-00207,2025-08-19,East,Electronics,Wireless Mouse,2,4163.19,0.1,UPI,New
+ORD-00208,2025-01-30,South,Electronics,Webcam,4,3334.02,0.1,UPI,Returning
+ORD-00209,2025-03-07,East,Sports,Yoga Mat,4,599.55,0.1,Card,Returning
+ORD-00210,2025-11-23,South,Electronics,USB-C Hub,3,2871.23,0.1,UPI,New
+ORD-00211,2025-02-02,East,Home & Kitchen,Water Bottle,3,1033.92,0.2,UPI,New
+ORD-00212,2025-02-19,West,Home & Kitchen,Lunch Box,2,525.2,0.0,UPI,New
+ORD-00213,2025-03-12,North,Electronics,Bluetooth Speaker,2,2349.03,0.05,UPI,New
+ORD-00214,2025-09-29,South,Electronics,Bluetooth Speaker,2,4222.65,0.15,Card,New
+ORD-00215,2025-10-16,North,Home & Kitchen,Desk Lamp,2,477.85,0.15,UPI,Returning
+ORD-00216,2025-11-09,South,Electronics,Webcam,2,1068.25,0.1,Net Banking,Returning
+ORD-00217,2025-05-24,East,Electronics,Wireless Mouse,4,4286.96,0.15,Card,Returning
+ORD-00218,2025-10-12,North,Electronics,Bluetooth Speaker,2,4059.6,0.05,Card,Returning
+ORD-00219,2025-08-28,North,Beauty,Face Wash,5,696.54,0.1,UPI,New
+ORD-00220,2025-09-30,East,Clothing,Hoodie,1,1412.39,0.05,UPI,New
+ORD-00221,2025-01-03,West,Clothing,Hoodie,1,298.82,0.0,Cash,New
+ORD-00222,2025-05-08,Central,Clothing,Sports Socks,1,2005.14,0.0,UPI,New
+ORD-00223,2025-03-09,West,Electronics,Bluetooth Speaker,1,1245.96,0.15,UPI,New
+ORD-00224,2025-01-02,Central,Sports,Resistance Bands,2,1385.8,0.0,UPI,New
+ORD-00225,2025-02-01,South,Clothing,Hoodie,3,1593.98,0.0,UPI,Returning
+ORD-00226,2025-04-23,West,Clothing,T-Shirt,1,696.01,0.2,Card,Returning
+ORD-00227,2025-08-21,West,Beauty,Moisturizer,2,345.6,0.05,UPI,New
+ORD-00228,2025-02-19,North,Home & Kitchen,Water Bottle,4,315.14,0.0,UPI,New
+ORD-00229,2025-09-04,South,Electronics,USB-C Hub,1,3555.37,0.1,Net Banking,New
+ORD-00230,2025-04-20,West,Home & Kitchen,Storage Box,1,605.8,0.1,Card,Returning
+ORD-00231,2025-06-26,East,Home & Kitchen,Lunch Box,3,593.47,0.15,Card,New
+ORD-00232,2025-10-24,North,Beauty,Face Wash,2,623.11,0.1,Card,New
+ORD-00233,2025-05-11,West,Sports,Gym Gloves,2,774.65,0.1,Card,Returning
+ORD-00234,2025-07-23,Central,Clothing,Jeans,1,2026.97,0.0,Card,New
+ORD-00235,2025-11-24,Central,Electronics,USB-C Hub,3,3811.89,0.0,UPI,New
+ORD-00236,2025-05-09,South,Beauty,Shampoo,1,144.41,0.15,Cash,New
+ORD-00237,2025-09-19,Central,Electronics,Wireless Mouse,1,1695.82,0.0,Card,Returning
+ORD-00238,2025-03-26,Central,Home & Kitchen,Lunch Box,1,1151.56,0.15,UPI,New
+ORD-00239,2025-07-21,South,Clothing,T-Shirt,4,434.21,0.1,UPI,Returning
+ORD-00240,2025-05-13,West,Home & Kitchen,Storage Box,2,825.45,0.0,Card,Returning
+ORD-00241,2025-07-25,North,Electronics,Webcam,3,1651.1,0.0,UPI,New
+ORD-00242,2025-03-04,East,Electronics,Webcam,2,2198.94,0.05,Card,New
+ORD-00243,2025-06-11,South,Clothing,Sports Socks,1,1667.43,0.05,UPI,New
+ORD-00244,2025-09-19,South,Home & Kitchen,Lunch Box,2,969.83,0.15,Cash,Returning
+ORD-00245,2025-06-27,North,Electronics,Bluetooth Speaker,3,3262.99,0.1,UPI,Returning
+ORD-00246,2025-05-23,North,Beauty,Shampoo,3,205.38,0.05,Card,New
+ORD-00247,2025-06-20,West,Electronics,Wireless Mouse,1,1971.15,0.1,UPI,New
+ORD-00248,2025-10-21,West,Home & Kitchen,Water Bottle,3,620.94,0.05,UPI,New
+ORD-00249,2025-01-09,South,Clothing,Sports Socks,2,487.82,0.1,UPI,New
+ORD-00250,2025-08-03,South,Home & Kitchen,Water Bottle,3,347.51,0.0,Card,Returning
+ORD-00251,2025-04-05,Central,Beauty,Moisturizer,1,215.73,0.1,UPI,Returning
+ORD-00252,2025-12-29,East,Electronics,Wireless Mouse,1,3613.42,0.05,Cash,Returning
+ORD-00253,2025-05-13,East,Electronics,Bluetooth Speaker,3,2560.7,0.05,UPI,New
+ORD-00254,2025-11-05,West,Home & Kitchen,Water Bottle,1,833.85,0.0,UPI,Returning
+ORD-00255,2025-06-04,North,Electronics,Webcam,2,3373.73,0.1,Cash,New
+ORD-00256,2025-11-24,South,Electronics,Bluetooth Speaker,2,1802.77,0.0,UPI,Returning
+ORD-00257,2025-01-14,West,Sports,Yoga Mat,4,977.31,0.15,Cash,Returning
+ORD-00258,2025-08-15,West,Beauty,Shampoo,4,556.9,0.0,UPI,New
+ORD-00259,2025-02-04,South,Beauty,Sunscreen,1,775.27,0.0,UPI,New
+ORD-00260,2025-03-08,West,Electronics,Webcam,3,1972.62,0.15,Cash,New
+ORD-00261,2025-11-13,West,Home & Kitchen,Storage Box,1,239.81,0.0,UPI,New
+ORD-00262,2025-11-23,North,Sports,Resistance Bands,2,430.82,0.1,Cash,New
+ORD-00263,2025-06-23,Central,Clothing,Hoodie,2,2141.55,0.0,Card,New
+ORD-00264,2025-03-17,North,Sports,Gym Gloves,1,1354.58,0.05,UPI,New
+ORD-00265,2025-04-27,South,Beauty,Moisturizer,2,397.72,0.1,Card,Returning
+ORD-00266,2025-09-17,South,Sports,Gym Gloves,2,544.29,0.0,UPI,New
+ORD-00267,2025-02-25,West,Home & Kitchen,Desk Lamp,2,1021.11,0.05,UPI,New
+ORD-00268,2025-01-09,East,Sports,Yoga Mat,5,983.91,0.0,UPI,New
+ORD-00269,2025-04-25,East,Home & Kitchen,Storage Box,1,463.36,0.05,UPI,New
+ORD-00270,2025-01-28,East,Sports,Yoga Mat,5,1207.37,0.1,UPI,New
+ORD-00271,2025-11-18,East,Electronics,Bluetooth Speaker,1,3182.66,0.1,UPI,New
+ORD-00272,2025-03-21,East,Clothing,T-Shirt,5,1761.06,0.15,UPI,New
+ORD-00273,2025-05-20,Central,Sports,Yoga Mat,1,604.81,0.05,UPI,New
+ORD-00274,2025-11-18,East,Clothing,T-Shirt,2,769.58,0.0,UPI,New
+ORD-00275,2025-08-01,North,Home & Kitchen,Storage Box,1,650.7,0.15,UPI,Returning
+ORD-00276,2025-02-07,North,Clothing,Jeans,2,364.69,0.1,Card,New
+ORD-00277,2025-08-27,South,Clothing,T-Shirt,3,932.16,0.05,UPI,New
+ORD-00278,2025-05-09,West,Beauty,Shampoo,3,807.99,0.1,Card,New
+ORD-00279,2025-12-17,Central,Beauty,Sunscreen,2,620.97,0.05,UPI,Returning
+ORD-00280,2025-05-04,West,Clothing,Jeans,3,1346.42,0.05,UPI,New
+ORD-00281,2025-09-25,Central,Beauty,Sunscreen,3,118.8,0.0,UPI,New
+ORD-00282,2025-02-08,East,Sports,Gym Gloves,4,1796.07,0.15,UPI,New
+ORD-00283,2025-08-23,North,Clothing,Sports Socks,2,854.68,0.05,Card,New
+ORD-00284,2025-10-12,East,Sports,Gym Gloves,3,1047.1,0.1,UPI,New
+ORD-00285,2025-09-12,West,Home & Kitchen,Water Bottle,3,745.39,0.05,Card,New
+ORD-00286,2025-08-04,South,Home & Kitchen,Water Bottle,3,257.29,0.15,UPI,Returning
+ORD-00287,2025-09-05,West,Beauty,Sunscreen,1,287.03,0.0,Card,New
+ORD-00288,2025-10-25,,Sports,Resistance Bands,1,242.46,0.0,UPI,Returning
+ORD-00289,2025-02-05,North,Sports,Gym Gloves,3,1473.79,0.0,Card,New
+ORD-00290,2025-01-24,North,Home & Kitchen,Water Bottle,2,1119.65,0.0,Cash,Returning
+ORD-00291,2025-02-21,East,Electronics,Bluetooth Speaker,2,2230.97,0.05,Card,New
+ORD-00292,2025-03-06,South,Clothing,T-Shirt,2,721.6,0.05,Cash,Returning
+ORD-00293,2025-06-25,Central,Clothing,Hoodie,5,1491.01,0.1,UPI,New
+ORD-00294,2025-10-31,Central,Electronics,Wireless Mouse,5,3626.32,0.0,Card,New
+ORD-00295,2025-02-15,West,Clothing,Sports Socks,1,1057.57,0.1,UPI,New
+ORD-00296,2025-05-02,West,Clothing,Sports Socks,3,1822.95,0.15,Card,New
+ORD-00297,2025-08-25,North,Sports,Gym Gloves,5,1536.86,0.05,Card,Returning
+ORD-00298,2025-09-30,West,Electronics,Webcam,1,4003.95,0.0,Card,New
+ORD-00299,2025-10-22,West,Home & Kitchen,Storage Box,1,958.96,0.1,UPI,New
+ORD-00300,2025-05-09,West,Sports,Resistance Bands,2,730.13,0.1,UPI,Returning
+ORD-00301,2025-01-27,West,Beauty,Sunscreen,2,747.54,0.15,Card,New
+ORD-00302,2025-05-12,Central,Home & Kitchen,Desk Lamp,2,414.17,0.2,Cash,Returning
+ORD-00303,2025-09-13,East,Beauty,Shampoo,3,136.9,0.1,Card,New
+ORD-00304,2025-09-27,West,Electronics,Wireless Mouse,3,1094.78,0.0,UPI,Returning
+ORD-00305,2025-04-28,West,Beauty,Moisturizer,3,875.3,0.1,Card,Returning
+ORD-00306,2025-08-20,South,Clothing,Jeans,3,686.99,0.0,UPI,Returning
+ORD-00307,2025-07-02,Central,Home & Kitchen,Desk Lamp,1,197.37,0.1,Card,Returning
+ORD-00308,2025-09-05,North,Home & Kitchen,Lunch Box,1,862.37,0.0,Card,Returning
+ORD-00309,2025-10-20,North,Electronics,Bluetooth Speaker,3,4460.84,0.0,Net Banking,New
+ORD-00310,2025-02-20,North,Sports,Skipping Rope,4,740.51,0.15,Cash,New
+ORD-00311,2025-05-20,South,Clothing,Sports Socks,1,2197.06,0.15,Card,Returning
+ORD-00312,2025-04-07,South,Sports,Yoga Mat,3,1742.23,0.05,UPI,New
+ORD-00313,2025-09-13,East,Electronics,Bluetooth Speaker,1,3230.43,0.0,Net Banking,Returning
+ORD-00314,2025-04-19,South,Electronics,Bluetooth Speaker,1,2633.56,0.0,Card,Returning
+ORD-00315,2025-02-10,North,Electronics,Webcam,3,4225.84,0.15,UPI,Returning
+ORD-00316,2025-11-15,South,Beauty,Face Wash,2,318.68,0.1,Card,New
+ORD-00317,2025-10-12,North,Electronics,Bluetooth Speaker,1,3369.41,0.05,Card,New
+ORD-00318,2025-08-03,South,Electronics,Webcam,1,452.35,0.0,Card,New
+ORD-00319,2025-06-18,West,Electronics,Webcam,1,2962.28,0.05,UPI,New
+ORD-00320,2025-01-06,East,Electronics,Webcam,3,2724.94,0.05,Card,New
+ORD-00321,2025-06-24,East,Sports,Gym Gloves,4,905.71,0.0,Card,New
+ORD-00322,2025-02-28,Central,Home & Kitchen,Desk Lamp,1,1023.0,0.15,UPI,Returning
+ORD-00323,2025-08-22,North,Home & Kitchen,Water Bottle,1,559.75,0.0,UPI,New
+ORD-00324,2025-01-22,North,Electronics,Webcam,2,3948.52,0.1,UPI,Returning
+ORD-00325,2025-03-30,West,Electronics,Wireless Mouse,3,577.07,0.0,UPI,Returning
+ORD-00326,2025-02-07,East,Sports,Skipping Rope,2,803.18,0.0,Cash,Returning
+ORD-00327,2025-05-09,North,Electronics,Bluetooth Speaker,3,3917.71,0.0,Card,New
+ORD-00328,2025-10-05,East,Beauty,Sunscreen,2,783.47,0.0,UPI,Returning
+ORD-00329,2025-03-21,Central,Electronics,USB-C Hub,4,3220.8,0.0,UPI,New
+ORD-00330,2025-06-22,South,Clothing,Sports Socks,1,1259.55,0.2,UPI,New
+ORD-00331,2025-06-19,South,Electronics,Bluetooth Speaker,1,1326.56,0.0,UPI,Returning
+ORD-00332,2025-12-29,South,Sports,Yoga Mat,2,1168.74,0.15,Cash,New
+ORD-00333,2025-06-17,North,Beauty,Shampoo,4,451.07,0.2,UPI,New
+ORD-00334,2025-10-28,East,Home & Kitchen,Storage Box,1,315.77,0.05,UPI,Returning
+ORD-00335,2025-01-11,South,Electronics,USB-C Hub,1,855.94,0.05,Cash,New
+ORD-00336,2025-05-07,South,Clothing,Sports Socks,2,1576.33,0.2,Cash,New
+ORD-00337,2025-04-09,North,Sports,Gym Gloves,1,384.14,0.0,UPI,New
+ORD-00338,2025-07-05,West,Beauty,Shampoo,1,935.14,0.15,UPI,Returning
+ORD-00339,2025-04-17,South,Electronics,USB-C Hub,2,2744.28,0.2,Cash,New
+ORD-00340,2025-04-19,East,Home & Kitchen,Desk Lamp,1,344.53,0.15,Net Banking,New
+ORD-00341,2025-11-03,South,Clothing,Sports Socks,1,1899.15,0.0,UPI,New
+ORD-00342,2025-03-15,North,Beauty,Moisturizer,1,497.86,0.0,Card,New
+ORD-00343,2025-10-19,South,Clothing,T-Shirt,1,1929.82,0.05,Cash,New
+ORD-00344,2025-04-11,East,Electronics,USB-C Hub,3,1498.04,0.0,Card,Returning
+ORD-00345,2025-10-29,East,Sports,Resistance Bands,4,295.77,0.15,Cash,New
+ORD-00346,2025-12-23,East,Home & Kitchen,Storage Box,2,799.96,0.0,Card,New
+ORD-00347,2025-06-12,South,Sports,Skipping Rope,2,1003.1,0.05,UPI,New
+ORD-00348,2025-07-17,North,Sports,Yoga Mat,1,1490.01,0.0,UPI,New
+ORD-00349,2025-09-21,West,Home & Kitchen,Desk Lamp,1,582.23,0.1,UPI,Returning
+ORD-00350,2025-10-31,Central,Clothing,Sports Socks,1,2112.5,0.05,UPI,New
+ORD-00351,2025-09-10,Central,Electronics,Wireless Mouse,1,4038.75,0.0,Card,New
+ORD-00352,2025-07-05,Central,Clothing,Jeans,3,1303.31,0.05,Cash,Returning
+ORD-00353,2025-11-03,Central,Sports,Skipping Rope,1,355.63,0.2,UPI,Returning
+ORD-00354,2025-05-24,Central,Clothing,Jeans,1,2122.93,0.0,Net Banking,Returning
+ORD-00355,2025-04-06,West,Sports,Yoga Mat,1,1279.17,0.0,UPI,New
+ORD-00356,2025-12-30,South,Home & Kitchen,Desk Lamp,3,1052.74,0.1,UPI,Returning
+ORD-00357,2025-03-31,West,Home & Kitchen,Storage Box,2,1159.79,0.0,UPI,Returning
+ORD-00358,2025-10-27,West,Beauty,Face Wash,2,850.43,0.0,UPI,New
+ORD-00359,2025-12-13,West,Clothing,Sports Socks,2,927.15,0.0,UPI,New
+ORD-00360,2025-12-25,North,Home & Kitchen,Desk Lamp,1,290.97,0.05,UPI,Returning
+ORD-00361,2025-03-16,West,Sports,Resistance Bands,2,683.64,0.05,UPI,New
+ORD-00362,2025-03-02,West,Electronics,Webcam,2,3432.59,0.1,UPI,New
+ORD-00363,2025-02-01,South,Clothing,Jeans,4,1533.95,0.05,UPI,Returning
+ORD-00364,2025-01-08,South,Clothing,Jeans,1,1401.5,0.15,Card,Returning
+ORD-00365,2025-01-27,South,Clothing,Sports Socks,4,1588.58,0.15,UPI,Returning
+ORD-00366,2025-03-01,East,Home & Kitchen,Water Bottle,1,771.07,0.0,UPI,New
+ORD-00367,2025-11-02,East,Home & Kitchen,Water Bottle,1,901.37,0.1,UPI,New
+ORD-00368,2025-06-15,North,Sports,Yoga Mat,2,1677.04,0.0,UPI,Returning
+ORD-00369,2025-05-22,South,Sports,Yoga Mat,1,1738.25,0.1,UPI,New
+ORD-00370,2025-10-08,South,Sports,Gym Gloves,3,1133.76,0.0,UPI,New
+ORD-00371,2025-03-20,West,Home & Kitchen,Lunch Box,1,520.77,0.05,UPI,New
+ORD-00372,2025-07-25,West,Electronics,USB-C Hub,5,1513.65,0.15,UPI,New
+ORD-00373,2025-12-30,West,Electronics,Wireless Mouse,3,891.97,0.0,Net Banking,Returning
+ORD-00374,2025-08-15,South,Sports,Skipping Rope,3,1280.56,0.0,UPI,Returning
+ORD-00375,2025-03-10,South,Home & Kitchen,Water Bottle,2,894.85,0.0,Card,Returning
+ORD-00376,2025-12-21,Central,Electronics,Bluetooth Speaker,2,2630.39,0.1,Cash,Returning
+ORD-00377,2025-01-28,North,Sports,Yoga Mat,1,439.57,0.15,UPI,Returning
+ORD-00378,2025-07-06,East,Electronics,Webcam,2,4138.7,0.1,Cash,Returning
+ORD-00379,2025-02-13,West,Sports,Gym Gloves,2,726.58,0.05,Card,New
+ORD-00380,2025-02-01,East,Home & Kitchen,Water Bottle,1,691.92,0.1,UPI,Returning
+ORD-00381,2025-09-25,South,Electronics,Webcam,2,622.18,0.0,Card,Returning
+ORD-00382,2025-01-10,West,Home & Kitchen,Water Bottle,3,1195.31,0.0,Cash,New
+ORD-00383,2025-11-29,West,Home & Kitchen,Desk Lamp,4,924.96,0.1,UPI,New
+ORD-00384,2025-03-13,South,Home & Kitchen,Water Bottle,4,1032.84,0.1,Card,New
+ORD-00385,2025-12-25,Central,Clothing,Hoodie,1,1749.07,0.0,Cash,Returning
+ORD-00386,2025-09-12,East,Home & Kitchen,Lunch Box,4,765.44,0.0,Card,New
+ORD-00387,2025-02-04,Central,Sports,Gym Gloves,5,989.66,0.2,Card,Returning
+ORD-00388,2025-01-23,Central,Home & Kitchen,Lunch Box,2,530.52,0.0,Card,New
+ORD-00389,2025-10-10,North,Clothing,Jeans,3,1226.63,0.1,UPI,New
+ORD-00390,2025-02-22,South,Electronics,Wireless Mouse,3,3375.87,0.05,Card,Returning
+ORD-00391,2025-07-13,Central,Electronics,Bluetooth Speaker,2,678.48,0.15,UPI,New
+ORD-00392,2025-12-27,Central,Sports,Skipping Rope,2,1527.62,0.2,UPI,New
+ORD-00393,2025-07-21,South,Sports,Resistance Bands,2,999.59,0.05,UPI,New
+ORD-00394,2025-11-04,North,Electronics,Wireless Mouse,1,2073.7,0.1,UPI,New
+ORD-00395,2025-03-28,East,Clothing,Jeans,5,1618.47,0.0,Card,Returning
+ORD-00396,2025-05-02,East,Home & Kitchen,Water Bottle,5,278.26,0.2,UPI,New
+ORD-00397,2025-01-13,South,Beauty,Moisturizer,2,832.49,0.15,UPI,Returning
+ORD-00398,2025-02-16,East,Electronics,Webcam,2,3293.28,0.0,Card,Returning
+ORD-00399,2025-07-20,North,Clothing,Hoodie,1,1105.57,0.15,Card,Returning
+ORD-00400,2025-05-17,South,Electronics,Wireless Mouse,1,2937.26,0.1,Card,Returning
+ORD-00401,2025-05-31,West,Beauty,Face Wash,2,601.48,0.0,Cash,New
+ORD-00402,2025-08-16,Central,Sports,Resistance Bands,4,1535.71,0.05,Cash,Returning
+ORD-00403,2025-08-22,West,Clothing,Jeans,1,302.87,0.05,UPI,New
+ORD-00404,2025-04-07,West,Home & Kitchen,Storage Box,2,802.52,0.05,Cash,Returning
+ORD-00405,2025-06-23,South,Electronics,USB-C Hub,2,2702.17,0.0,Card,New
+ORD-00406,2025-05-30,Central,Electronics,Wireless Mouse,4,902.23,0.0,UPI,New
+ORD-00407,2025-08-26,East,Electronics,Bluetooth Speaker,1,1117.91,0.0,UPI,New
+ORD-00408,2025-05-22,East,Beauty,Shampoo,1,279.87,0.1,Card,New
+ORD-00409,2025-12-02,East,Clothing,Jeans,1,1841.74,0.05,Card,Returning
+ORD-00410,2025-01-24,South,Sports,Yoga Mat,3,1012.47,0.1,UPI,New
+ORD-00411,2025-02-01,West,Clothing,T-Shirt,1,2095.2,0.1,Card,Returning
+ORD-00412,2025-10-07,North,Electronics,USB-C Hub,1,3377.8,0.05,UPI,New
+ORD-00413,2025-03-05,Central,Clothing,Hoodie,5,1133.75,0.0,UPI,New
+ORD-00414,2025-06-03,Central,Home & Kitchen,Storage Box,3,275.09,0.0,Card,Returning
+ORD-00415,2025-02-27,North,Beauty,Sunscreen,1,688.66,0.0,Card,Returning
+ORD-00416,2025-10-05,North,Electronics,USB-C Hub,3,1872.91,0.05,UPI,Returning
+ORD-00417,2025-08-08,South,Electronics,Webcam,4,2056.25,0.05,Card,Returning
+ORD-00418,2025-06-20,Central,Sports,Resistance Bands,1,1086.1,0.0,UPI,Returning
+ORD-00419,2025-08-20,North,Clothing,Jeans,1,1102.29,0.15,Card,Returning
+ORD-00420,2025-09-08,East,Electronics,Wireless Mouse,1,604.28,0.05,UPI,New
+ORD-00421,2025-09-28,Central,Home & Kitchen,Desk Lamp,3,624.52,0.15,UPI,Returning
+ORD-00422,2025-04-10,West,Home & Kitchen,Storage Box,5,988.43,0.05,Card,New
+ORD-00423,2025-07-18,South,Beauty,Shampoo,1,695.3,0.1,Card,New
+ORD-00424,2025-01-24,Central,Clothing,Jeans,4,1537.59,0.05,Card,New
+ORD-00425,2025-12-09,West,Electronics,Webcam,3,1230.3,0.05,Card,New
+ORD-00426,2025-02-03,West,Beauty,Sunscreen,2,784.47,0.0,Card,New
+ORD-00427,2025-12-06,North,Clothing,Jeans,5,1406.17,0.0,Cash,New
+ORD-00428,2025-08-18,East,Clothing,Jeans,2,1086.2,0.05,UPI,New
+ORD-00429,2025-04-17,North,Home & Kitchen,Lunch Box,2,1054.51,0.1,UPI,New
+ORD-00430,2025-12-04,East,Beauty,Face Wash,2,743.34,0.0,Net Banking,Returning
+ORD-00431,2025-05-04,East,Clothing,Hoodie,1,1272.12,0.0,Net Banking,New
+ORD-00432,2025-06-07,South,Beauty,Face Wash,1,368.66,0.0,Net Banking,New
+ORD-00433,2025-05-12,South,Beauty,Face Wash,4,371.49,0.2,Net Banking,New
+ORD-00434,2025-05-06,South,Beauty,Shampoo,3,397.67,0.1,UPI,New
+ORD-00435,2025-12-21,South,Sports,Gym Gloves,2,1479.56,0.05,Cash,Returning
+ORD-00436,2025-07-22,North,Clothing,Jeans,3,1897.77,0.0,UPI,New
+ORD-00437,2025-02-12,South,Electronics,Bluetooth Speaker,1,2214.03,0.0,UPI,New
+ORD-00438,2025-10-17,North,Electronics,Bluetooth Speaker,3,4462.44,0.15,UPI,New
+ORD-00439,2025-10-07,South,Electronics,Wireless Mouse,2,1883.36,0.0,Net Banking,Returning
+ORD-00440,2025-05-14,South,Clothing,Sports Socks,1,851.68,0.0,UPI,New
+ORD-00441,2025-11-25,North,Electronics,Bluetooth Speaker,2,3076.8,0.05,UPI,Returning
+ORD-00442,2025-06-28,North,Home & Kitchen,Lunch Box,1,536.95,0.05,Card,New
+ORD-00443,2025-01-20,South,Beauty,Face Wash,3,122.78,0.1,UPI,New
+ORD-00444,2025-07-18,South,Clothing,Jeans,3,615.57,0.1,UPI,New
+ORD-00445,2025-11-13,East,Home & Kitchen,Lunch Box,1,551.01,0.0,Card,Returning
+ORD-00446,2025-06-04,North,Home & Kitchen,Storage Box,1,778.65,0.05,UPI,New
+ORD-00447,2025-07-04,South,Home & Kitchen,Water Bottle,2,627.29,0.05,Cash,New
+ORD-00448,2025-02-13,North,Clothing,Hoodie,2,1559.71,0.0,Card,New
+ORD-00449,2025-11-18,East,Home & Kitchen,Desk Lamp,2,641.34,0.0,UPI,New
+ORD-00450,2025-04-08,Central,Beauty,Moisturizer,1,396.1,0.1,Cash,New
+ORD-00451,2025-11-18,West,Electronics,USB-C Hub,1,4310.24,0.1,Card,Returning
+ORD-00452,2025-01-14,South,Beauty,Sunscreen,1,500.77,0.1,UPI,New
+ORD-00453,2025-06-28,South,Sports,Yoga Mat,1,583.44,0.1,UPI,New
+ORD-00454,2025-09-15,West,Sports,Skipping Rope,2,757.48,0.05,Card,New
+ORD-00455,2025-06-29,South,Electronics,Webcam,5,3264.08,0.0,UPI,New
+ORD-00456,2025-12-28,North,Electronics,Bluetooth Speaker,3,1766.05,0.05,Card,New
+ORD-00457,2025-04-10,Central,Sports,Skipping Rope,1,791.08,0.05,UPI,New
+ORD-00458,2025-09-28,South,Sports,Yoga Mat,1,1469.58,0.0,Net Banking,Returning
+ORD-00459,2025-01-10,Central,Electronics,Bluetooth Speaker,2,3285.47,0.15,UPI,Returning
+ORD-00460,2025-02-21,North,Clothing,Sports Socks,3,673.66,0.1,Card,New
+ORD-00461,2025-05-06,West,Clothing,Sports Socks,3,980.88,0.05,UPI,New
+ORD-00462,2025-11-08,East,Home & Kitchen,Water Bottle,2,1081.68,0.05,UPI,New
+ORD-00463,2025-01-28,North,Home & Kitchen,Storage Box,1,886.41,0.2,Card,New
+ORD-00464,2025-04-19,West,Sports,Skipping Rope,1,1586.09,0.1,UPI,Returning
+ORD-00465,2025-09-12,North,Electronics,Bluetooth Speaker,1,4071.35,0.15,UPI,Returning
+ORD-00466,2025-03-29,Central,Home & Kitchen,Lunch Box,2,327.39,0.05,UPI,New
+ORD-00467,2025-08-01,North,Clothing,T-Shirt,2,1355.65,0.05,Cash,New
+ORD-00468,2025-08-08,West,Clothing,Jeans,1,2028.96,0.1,UPI,Returning
+ORD-00469,2025-05-02,Central,Home & Kitchen,Lunch Box,2,656.18,0.0,UPI,New
+ORD-00470,2025-12-13,South,Clothing,Hoodie,2,365.06,0.05,UPI,Returning
+ORD-00471,2025-07-31,South,Electronics,Bluetooth Speaker,2,462.78,0.2,Net Banking,New
+ORD-00472,2025-09-02,North,Clothing,Hoodie,2,1181.04,0.1,UPI,Returning
+ORD-00473,2025-03-05,West,Clothing,Sports Socks,2,2042.96,0.1,UPI,Returning
+ORD-00474,2025-04-12,South,Clothing,T-Shirt,2,1118.65,0.05,Net Banking,New
+ORD-00475,2025-02-19,West,Electronics,Wireless Mouse,3,4332.04,0.1,Card,New
+ORD-00476,2025-03-01,North,Home & Kitchen,Lunch Box,2,1086.14,0.05,Net Banking,New
+ORD-00477,2025-07-09,South,Electronics,USB-C Hub,1,1139.33,0.0,UPI,Returning
+ORD-00478,2025-12-08,Central,Sports,Skipping Rope,1,895.54,0.15,Card,Returning
+ORD-00479,2025-07-11,North,Electronics,Webcam,1,4249.1,0.05,Card,New
+ORD-00480,2025-04-27,West,Clothing,Jeans,2,1025.24,0.15,Cash,New
+ORD-00481,2025-07-24,North,Home & Kitchen,Lunch Box,1,330.37,0.05,Card,New
+ORD-00482,2025-07-13,South,Home & Kitchen,Desk Lamp,4,1093.25,0.2,UPI,New
+ORD-00483,2025-06-03,Central,Clothing,Jeans,1,447.65,0.1,UPI,New
+ORD-00484,2025-04-28,West,Sports,Yoga Mat,2,1598.07,0.05,UPI,New
+ORD-00485,2025-10-25,South,Electronics,USB-C Hub,3,1714.42,0.1,UPI,New
+ORD-00486,2025-12-03,West,Clothing,Sports Socks,1,1154.89,0.0,Card,New
+ORD-00487,2025-01-05,Central,Electronics,Webcam,1,4056.16,0.15,UPI,New
+ORD-00488,2025-01-16,North,Electronics,Wireless Mouse,2,4322.44,0.05,Card,Returning
+ORD-00489,2025-07-12,South,Clothing,Sports Socks,1,1567.75,0.0,Cash,Returning
+ORD-00490,2025-04-21,South,Home & Kitchen,Water Bottle,5,1038.33,0.15,UPI,Returning
+ORD-00491,2025-09-15,East,Electronics,Webcam,2,826.25,0.0,UPI,New
+ORD-00492,2025-04-09,South,Beauty,Moisturizer,3,735.5,0.15,Net Banking,Returning
+ORD-00493,2025-09-23,South,Home & Kitchen,Storage Box,2,692.98,0.1,Card,New
+ORD-00494,2025-06-06,North,Clothing,Jeans,2,548.72,0.15,Card,New
+ORD-00495,2025-09-20,North,Sports,Skipping Rope,3,353.83,0.1,UPI,New
+ORD-00496,2025-12-28,South,Electronics,Bluetooth Speaker,3,2188.08,0.1,Card,Returning
+ORD-00497,2025-08-08,North,Sports,Skipping Rope,4,1518.0,0.1,Card,New
+ORD-00498,2025-05-12,East,Home & Kitchen,Water Bottle,1,323.31,0.1,Card,Returning
+ORD-00499,2025-07-07,East,Home & Kitchen,Storage Box,1,461.25,0.15,UPI,Returning
+ORD-00500,2025-11-06,South,Clothing,Hoodie,2,290.7,0.05,Card,New
+ORD-00501,2025-02-14,South,Electronics,USB-C Hub,4,2041.1,0.15,Cash,New
+ORD-00502,2025-03-14,Central,Electronics,Wireless Mouse,2,582.56,0.0,UPI,Returning
+ORD-00503,2025-04-13,East,Beauty,Shampoo,1,212.97,0.15,UPI,New
+ORD-00504,2025-11-18,West,Electronics,USB-C Hub,2,4281.32,0.1,Card,New
+ORD-00505,2025-08-07,South,Beauty,Sunscreen,4,627.34,0.1,Card,New
+ORD-00506,2025-09-29,West,Home & Kitchen,Water Bottle,2,884.36,0.05,UPI,New
+ORD-00507,2025-09-15,South,Clothing,Hoodie,3,1416.12,0.15,UPI,New
+ORD-00508,2025-02-15,North,Home & Kitchen,Lunch Box,5,594.8,0.2,UPI,Returning
+ORD-00509,2025-10-03,North,Electronics,Webcam,4,1228.49,0.05,UPI,New
+ORD-00510,2025-12-12,Central,Sports,Yoga Mat,2,1759.29,0.0,Card,New
+ORD-00511,2025-03-14,West,Sports,Resistance Bands,1,350.49,0.0,Cash,Returning
+ORD-00512,2025-10-26,West,Sports,Gym Gloves,4,645.5,0.0,Card,Returning
+ORD-00513,2025-01-08,East,Beauty,Face Wash,3,473.51,0.0,UPI,New
+ORD-00514,2025-02-27,North,Electronics,Bluetooth Speaker,3,1815.98,0.0,UPI,Returning
+ORD-00515,2025-02-27,North,Clothing,T-Shirt,1,276.99,0.05,Card,Returning
+ORD-00516,2025-06-24,West,Electronics,Wireless Mouse,1,3588.87,0.1,UPI,Returning
+ORD-00517,2025-01-05,West,Clothing,Sports Socks,1,1451.62,0.05,UPI,New
+ORD-00518,2025-05-14,North,Home & Kitchen,Storage Box,3,869.25,0.1,Card,New
+ORD-00519,2025-04-20,South,Home & Kitchen,Storage Box,1,522.91,0.0,UPI,New
+ORD-00520,2025-01-25,North,Electronics,Webcam,2,4173.82,0.2,Card,New
+ORD-00521,2025-04-21,Central,Clothing,Jeans,2,1039.36,0.15,Card,New
+ORD-00522,2025-05-29,West,Clothing,T-Shirt,2,1964.29,0.1,UPI,New
+ORD-00523,2025-05-14,West,Sports,Resistance Bands,5,881.73,0.0,UPI,New
+ORD-00524,2025-10-29,East,Clothing,Hoodie,1,1318.7,0.1,Card,Returning
+ORD-00525,2025-07-13,South,Home & Kitchen,Desk Lamp,2,1155.39,0.0,Cash,Returning
+ORD-00526,2025-12-05,Central,Home & Kitchen,Lunch Box,4,622.28,0.2,UPI,Returning
+ORD-00527,2025-10-26,Central,Beauty,Moisturizer,1,414.78,0.1,UPI,Returning
+ORD-00528,2025-04-04,East,Beauty,Shampoo,1,338.33,0.0,Net Banking,Returning
+ORD-00529,2025-09-11,East,Sports,Skipping Rope,1,1146.24,0.0,UPI,New
+ORD-00530,2025-09-16,South,Home & Kitchen,Storage Box,1,1102.35,0.1,Card,New
+ORD-00531,2025-02-01,West,Electronics,USB-C Hub,1,2594.41,0.0,Card,Returning
+ORD-00532,2025-07-14,West,Home & Kitchen,Water Bottle,3,401.16,0.1,Card,New
+ORD-00533,2025-08-28,South,Sports,Yoga Mat,1,1677.86,0.15,UPI,Returning
+ORD-00534,2025-02-03,East,Beauty,Face Wash,3,210.87,0.0,UPI,Returning
+ORD-00535,2025-09-02,South,Electronics,Webcam,1,2429.12,0.15,UPI,Returning
+ORD-00536,2025-06-22,Central,Home & Kitchen,Desk Lamp,2,341.81,0.0,UPI,New
+ORD-00537,2025-04-06,West,Sports,Skipping Rope,3,930.01,0.15,UPI,Returning
+ORD-00538,2025-06-05,West,Electronics,Wireless Mouse,3,2982.63,0.0,UPI,New
+ORD-00539,2025-09-04,Central,Home & Kitchen,Storage Box,1,237.32,0.0,UPI,Returning
+ORD-00540,2025-08-02,South,Electronics,USB-C Hub,2,3297.26,0.1,Cash,Returning
+ORD-00541,2025-10-02,Central,Electronics,Wireless Mouse,1,1272.88,0.15,UPI,New
+ORD-00542,2025-07-30,North,Clothing,Hoodie,1,1520.02,0.05,Card,Returning
+ORD-00543,2025-05-06,West,Clothing,Jeans,1,1413.15,0.0,UPI,New
+ORD-00544,2025-10-13,East,Electronics,Webcam,1,2890.27,0.05,UPI,Returning
+ORD-00545,2025-09-29,East,Electronics,Bluetooth Speaker,3,2245.97,0.1,Card,New
+ORD-00546,2025-01-17,East,Home & Kitchen,Storage Box,2,422.66,0.0,UPI,Returning
+ORD-00547,2025-05-10,South,Clothing,T-Shirt,1,461.87,0.05,UPI,New
+ORD-00548,2025-09-15,Central,Clothing,Jeans,1,1765.16,0.0,UPI,New
+ORD-00549,2025-02-09,East,Home & Kitchen,Lunch Box,3,636.1,0.0,Cash,New
+ORD-00550,2025-04-16,East,Beauty,Shampoo,2,415.16,0.0,UPI,New
+ORD-00551,2025-10-10,West,Clothing,Hoodie,1,1332.74,0.0,UPI,New
+ORD-00552,2025-05-14,North,Sports,Gym Gloves,1,727.92,0.1,Cash,Returning
+ORD-00553,2025-09-23,South,Clothing,Hoodie,4,1568.56,0.15,UPI,New
+ORD-00554,2025-07-13,Central,Electronics,Wireless Mouse,2,3088.8,0.0,Card,New
+ORD-00555,2025-09-04,South,Home & Kitchen,Water Bottle,5,594.47,0.1,Card,New
+ORD-00556,2025-10-14,North,Beauty,Face Wash,2,298.7,0.1,UPI,New
+ORD-00557,2025-09-29,West,Beauty,Sunscreen,1,622.71,0.0,Card,New
+ORD-00558,2025-04-16,South,Electronics,USB-C Hub,5,2817.53,0.0,UPI,New
+ORD-00559,2025-08-01,South,Home & Kitchen,Desk Lamp,2,1103.68,0.0,UPI,Returning
+ORD-00560,2025-02-24,Central,Home & Kitchen,Lunch Box,2,513.53,0.05,UPI,Returning
+ORD-00561,2025-02-04,West,Clothing,Sports Socks,4,2145.36,0.0,UPI,New
+ORD-00562,2025-06-23,North,Home & Kitchen,Desk Lamp,2,1046.78,0.15,UPI,New
+ORD-00563,2025-10-26,West,Clothing,Jeans,2,1654.04,0.1,Net Banking,New
+ORD-00564,2025-02-16,South,Beauty,Shampoo,2,942.16,0.15,Cash,Returning
+ORD-00565,2025-09-09,West,Clothing,Sports Socks,3,559.49,0.1,UPI,Returning
+ORD-00566,2025-06-30,South,Beauty,Face Wash,1,784.93,0.15,UPI,Returning
+ORD-00567,2025-10-09,Central,Home & Kitchen,Desk Lamp,1,1137.64,0.1,UPI,Returning
+ORD-00568,2025-07-26,South,Electronics,Webcam,2,885.89,0.0,Card,New
+ORD-00569,2025-08-13,South,Electronics,Wireless Mouse,1,2532.57,0.1,Card,Returning
+ORD-00570,2025-11-13,North,Clothing,T-Shirt,1,1223.5,0.0,UPI,New
+ORD-00571,2025-09-25,West,Home & Kitchen,Storage Box,1,1106.16,0.05,Cash,New
+ORD-00572,2025-01-21,South,Beauty,Shampoo,2,496.74,0.0,UPI,New
+ORD-00573,2025-09-24,North,Electronics,Wireless Mouse,1,3549.41,0.1,Cash,New
+ORD-00574,2025-10-01,East,Clothing,Hoodie,2,1499.54,0.0,Card,Returning
+ORD-00575,2025-06-21,South,Sports,Yoga Mat,2,592.89,0.15,Card,Returning
+ORD-00576,2025-11-09,East,Clothing,Hoodie,1,1712.7,0.0,Net Banking,Returning
+ORD-00577,2025-05-11,South,Home & Kitchen,Lunch Box,2,848.51,0.0,UPI,New
+ORD-00578,2025-02-25,North,Clothing,Hoodie,4,1548.17,0.2,Card,Returning
+ORD-00579,2025-12-20,South,Sports,Resistance Bands,2,748.3,0.15,Card,New
+ORD-00580,2025-03-11,North,Home & Kitchen,Lunch Box,4,186.07,0.1,Card,New
+ORD-00581,2025-12-12,North,Sports,Yoga Mat,2,649.19,0.15,UPI,Returning
+ORD-00582,2025-01-04,North,Beauty,Shampoo,2,947.12,0.05,UPI,Returning
+ORD-00583,2025-11-28,West,Sports,Resistance Bands,2,1313.37,0.1,Cash,New
+ORD-00584,2025-06-22,West,Sports,Skipping Rope,2,1624.92,0.15,UPI,Returning
+ORD-00585,2025-09-06,North,Beauty,Shampoo,4,845.2,0.1,Card,Returning
+ORD-00586,2025-03-27,East,Electronics,Webcam,4,1556.16,0.0,Card,Returning
+ORD-00587,2025-05-08,North,Clothing,Hoodie,4,339.39,0.15,UPI,New
+ORD-00588,2025-02-11,East,Electronics,Bluetooth Speaker,3,4051.19,0.05,Card,Returning
+ORD-00589,2025-10-23,West,Home & Kitchen,Water Bottle,2,782.13,0.0,UPI,New
+ORD-00590,2025-08-29,North,Electronics,Bluetooth Speaker,1,2387.94,0.1,Cash,New
+ORD-00591,2025-04-07,West,Electronics,Webcam,2,2467.61,0.1,Cash,Returning
+ORD-00592,2025-11-24,North,Home & Kitchen,Storage Box,1,403.16,0.0,UPI,New
+ORD-00593,2025-11-24,Central,Sports,Gym Gloves,2,245.37,0.0,Card,Returning
+ORD-00594,2025-10-07,Central,Home & Kitchen,Storage Box,1,553.0,0.05,UPI,New
+ORD-00595,2025-11-29,Central,Clothing,Sports Socks,1,1502.74,0.15,UPI,New
+ORD-00596,2025-08-27,West,Clothing,Hoodie,1,1134.0,0.15,Net Banking,New
+ORD-00597,2025-05-16,North,Home & Kitchen,Lunch Box,1,1087.35,0.2,Cash,New
+ORD-00598,2025-09-19,North,Electronics,Webcam,2,2183.8,0.0,Cash,Returning
+ORD-00599,2025-11-14,West,Electronics,Bluetooth Speaker,1,1855.75,0.0,UPI,Returning
+ORD-00600,2025-01-20,West,Clothing,T-Shirt,1,2049.26,0.1,UPI,New
+ORD-00601,2025-03-16,Central,Home & Kitchen,Desk Lamp,4,891.22,0.0,UPI,New
+ORD-00602,2025-03-17,South,Sports,Resistance Bands,1,238.19,0.1,Card,New
+ORD-00603,2025-07-25,Central,Home & Kitchen,Storage Box,1,615.02,0.05,Net Banking,New
+ORD-00604,2025-12-06,South,Electronics,USB-C Hub,1,2274.6,0.2,Card,New
+ORD-00605,2025-05-27,Central,Beauty,Face Wash,2,847.04,0.05,Cash,Returning
+ORD-00606,2025-09-15,South,Clothing,Sports Socks,1,1210.55,0.1,UPI,Returning
+ORD-00607,2025-10-09,East,Clothing,T-Shirt,2,476.74,0.0,UPI,New
+ORD-00608,2025-06-20,South,Electronics,Wireless Mouse,2,604.61,0.0,UPI,Returning
+ORD-00609,2025-06-21,Central,Clothing,T-Shirt,1,1960.83,0.0,Card,Returning
+ORD-00610,2025-09-05,South,Electronics,Wireless Mouse,4,1230.21,0.05,UPI,New
+ORD-00611,2025-03-16,West,Electronics,USB-C Hub,4,1861.84,0.0,UPI,New
+ORD-00612,2025-11-01,West,Electronics,Bluetooth Speaker,1,1405.75,0.15,UPI,New
+ORD-00613,2025-12-18,Central,Beauty,Shampoo,1,661.24,0.2,UPI,Returning
+ORD-00614,2025-07-10,East,Sports,Gym Gloves,3,1459.17,0.15,Cash,New
+ORD-00615,2025-07-15,Central,Electronics,Webcam,4,3114.53,0.0,Card,Returning
+ORD-00616,2025-05-28,East,Electronics,Wireless Mouse,1,825.85,0.05,UPI,New
+ORD-00617,2025-03-14,East,Electronics,Wireless Mouse,2,2597.93,0.1,Net Banking,Returning
+ORD-00618,2025-12-13,North,Home & Kitchen,Water Bottle,2,1129.46,0.15,UPI,New
+ORD-00619,2025-10-18,South,Home & Kitchen,Lunch Box,2,1187.45,0.0,UPI,Returning
+ORD-00620,2025-10-05,North,Home & Kitchen,Water Bottle,2,626.0,0.0,UPI,New
+ORD-00621,2025-09-12,West,Clothing,T-Shirt,1,1362.47,0.0,Card,New
+ORD-00622,2025-11-30,South,Home & Kitchen,Storage Box,1,850.09,0.1,UPI,New
+ORD-00623,2025-12-27,West,Clothing,Hoodie,5,759.11,0.0,Card,Returning
+ORD-00624,2025-07-26,West,Sports,Gym Gloves,1,1511.04,0.0,UPI,New
+ORD-00625,2025-09-09,North,Beauty,Moisturizer,4,445.49,0.0,Card,Returning
+ORD-00626,2025-09-26,West,Home & Kitchen,Lunch Box,5,903.1,0.15,Cash,New
+ORD-00627,2025-04-24,North,Clothing,T-Shirt,1,665.0,0.0,Net Banking,Returning
+ORD-00628,2025-01-18,North,Home & Kitchen,Desk Lamp,2,752.28,0.0,Card,New
+ORD-00629,2025-11-17,South,Home & Kitchen,Lunch Box,1,944.76,0.05,Card,New
+ORD-00630,2025-10-11,South,Home & Kitchen,Lunch Box,4,286.88,0.15,UPI,New
+ORD-00631,2025-05-29,Central,Clothing,T-Shirt,5,1571.64,0.0,UPI,Returning
+ORD-00632,2025-10-14,East,Electronics,USB-C Hub,3,2852.96,0.0,UPI,New
+ORD-00633,2025-09-14,North,Clothing,Jeans,2,1938.19,0.2,UPI,Returning
+ORD-00634,2025-09-24,South,Electronics,Bluetooth Speaker,2,4311.42,0.15,Cash,Returning
+ORD-00635,2025-08-14,North,Clothing,Jeans,1,1298.47,0.2,Card,New
+ORD-00636,2025-01-26,North,Home & Kitchen,Desk Lamp,2,1136.97,0.1,Net Banking,New
+ORD-00637,2025-11-23,West,Electronics,Wireless Mouse,1,3196.7,0.1,Cash,Returning
+ORD-00638,2025-11-09,West,Clothing,Sports Socks,2,836.91,0.05,Net Banking,New
+ORD-00639,2025-09-07,West,Electronics,Bluetooth Speaker,1,3895.82,0.15,UPI,Returning
+ORD-00640,2025-11-01,East,Home & Kitchen,Water Bottle,4,503.73,0.0,UPI,Returning
+ORD-00641,2025-12-07,East,Beauty,Face Wash,1,310.17,0.0,UPI,New
+ORD-00642,2025-07-27,South,Electronics,Webcam,1,3737.39,0.15,Card,New
+ORD-00643,2025-12-20,West,Clothing,Hoodie,2,1356.82,0.0,UPI,New
+ORD-00644,2025-05-08,West,Electronics,Wireless Mouse,1,1943.14,0.0,Net Banking,New
+ORD-00645,2025-10-15,Central,Home & Kitchen,Water Bottle,1,358.21,0.1,Cash,Returning
+ORD-00646,2025-10-30,Central,Sports,Gym Gloves,4,760.04,0.15,Card,New
+ORD-00647,2025-01-12,North,Electronics,USB-C Hub,2,2477.81,0.1,UPI,Returning
+ORD-00648,2025-04-21,Central,Sports,Gym Gloves,5,653.87,0.1,UPI,Returning
+ORD-00649,2025-05-27,West,Home & Kitchen,Lunch Box,3,1135.07,0.0,Card,Returning
+ORD-00650,2025-08-27,North,Sports,Yoga Mat,2,1684.4,0.1,UPI,New
+ORD-00651,2025-11-08,South,Home & Kitchen,Storage Box,1,866.26,0.2,Card,New
+ORD-00652,2025-03-29,Central,Home & Kitchen,Water Bottle,1,478.1,0.0,Cash,New
+ORD-00653,2025-07-12,North,Clothing,Jeans,2,1181.13,0.0,Net Banking,New
+ORD-00654,2025-07-01,Central,Sports,Resistance Bands,4,1312.83,0.15,UPI,Returning
+ORD-00655,2025-09-25,North,Sports,Skipping Rope,1,1795.11,0.1,Card,Returning
+ORD-00656,2025-07-12,,Beauty,Moisturizer,1,607.66,0.0,Net Banking,New
+ORD-00657,2025-08-01,Central,Beauty,Face Wash,3,623.37,0.15,UPI,Returning
+ORD-00658,2025-01-18,South,Clothing,T-Shirt,4,1854.26,0.05,UPI,Returning
+ORD-00659,2025-12-01,South,Clothing,T-Shirt,1,1050.79,0.15,UPI,New
+ORD-00660,2025-09-21,Central,Sports,Resistance Bands,5,215.54,0.05,UPI,Returning
+ORD-00661,2025-12-10,East,Clothing,Jeans,5,1136.45,0.15,Card,Returning
+ORD-00662,2025-11-27,South,Clothing,Jeans,3,1491.09,0.2,UPI,New
+ORD-00663,2025-07-06,Central,Beauty,Sunscreen,1,406.47,0.15,UPI,New
+ORD-00664,2025-10-23,Central,Electronics,USB-C Hub,2,1919.39,0.15,Card,New
+ORD-00665,2025-12-12,North,Home & Kitchen,Water Bottle,1,157.54,0.05,Card,Returning
+ORD-00666,2025-07-11,East,Home & Kitchen,Lunch Box,2,851.49,0.0,Card,New
+ORD-00667,2025-03-19,Central,Electronics,Webcam,2,788.92,0.0,UPI,New
+ORD-00668,2025-01-08,South,Electronics,Bluetooth Speaker,3,1248.21,0.2,Card,New
+ORD-00669,2025-06-13,Central,Beauty,Shampoo,3,677.54,0.0,Card,New
+ORD-00670,2025-06-07,East,Beauty,Face Wash,1,494.72,0.0,Card,New
+ORD-00671,2025-02-22,North,Clothing,Jeans,2,1145.81,0.05,Cash,Returning
+ORD-00672,2025-10-03,West,Electronics,Webcam,2,3439.26,0.15,Net Banking,New
+ORD-00673,2025-10-11,West,Electronics,Webcam,3,2604.54,0.0,UPI,Returning
+ORD-00674,2025-02-15,Central,Sports,Skipping Rope,2,1771.01,0.0,UPI,Returning
+ORD-00675,2025-12-17,West,Sports,Resistance Bands,4,1159.55,0.2,UPI,New
+ORD-00676,2025-03-30,West,Clothing,T-Shirt,3,1030.36,0.0,UPI,New
+ORD-00677,2025-05-07,South,Electronics,Webcam,3,2931.88,0.15,UPI,Returning
+ORD-00678,2025-03-28,South,Home & Kitchen,Storage Box,2,917.88,0.0,UPI,Returning
+ORD-00679,2025-11-18,West,Clothing,Sports Socks,2,924.86,0.0,UPI,Returning
+ORD-00680,2025-05-10,East,Clothing,Jeans,2,1840.96,0.1,Net Banking,New
+ORD-00681,2025-08-21,West,Clothing,Hoodie,1,368.31,0.2,UPI,New
+ORD-00682,2025-04-07,South,Clothing,Jeans,2,404.9,0.1,Card,New
+ORD-00683,2025-09-05,South,Clothing,T-Shirt,1,1670.36,0.0,Cash,New
+ORD-00684,2025-09-02,South,Home & Kitchen,Water Bottle,3,958.4,0.05,UPI,Returning
+ORD-00685,2025-01-02,Central,Sports,Resistance Bands,1,854.41,0.15,UPI,Returning
+ORD-00686,2025-05-31,North,Sports,Skipping Rope,2,529.23,0.05,Card,Returning
+ORD-00687,2025-04-24,Central,Clothing,T-Shirt,4,1221.83,0.05,Card,New
+ORD-00688,2025-02-02,West,Sports,Skipping Rope,2,1062.39,0.0,Card,Returning
+ORD-00689,2025-01-13,North,Clothing,Sports Socks,1,2179.03,0.0,UPI,New
+ORD-00690,2025-03-04,West,Home & Kitchen,Lunch Box,1,933.31,0.1,Card,New
+ORD-00691,2025-10-14,South,Sports,Resistance Bands,3,1498.65,0.0,UPI,New
+ORD-00692,2025-05-17,South,Beauty,Face Wash,1,554.78,0.05,Card,Returning
+ORD-00693,2025-03-27,East,Electronics,Bluetooth Speaker,4,2332.2,0.1,UPI,New
+ORD-00694,2025-08-15,West,Electronics,Bluetooth Speaker,1,2067.31,0.05,UPI,Returning
+ORD-00695,2025-09-24,North,Clothing,Sports Socks,4,2019.77,0.0,UPI,New
+ORD-00696,2025-11-26,South,Sports,Gym Gloves,3,736.94,0.15,Card,Returning
+ORD-00697,2025-09-10,North,Electronics,Bluetooth Speaker,2,3243.32,0.2,UPI,Returning
+ORD-00698,2025-12-30,West,Clothing,Sports Socks,1,623.13,0.2,UPI,New
+ORD-00699,2025-02-17,East,Clothing,Hoodie,4,1977.71,0.0,Net Banking,Returning
+ORD-00700,2025-02-06,South,Electronics,Webcam,3,584.92,0.0,UPI,Returning
+ORD-00701,2025-08-05,West,Electronics,USB-C Hub,2,3710.72,0.1,Cash,New
+ORD-00702,2025-08-10,East,Clothing,Jeans,2,1541.04,0.0,Card,Returning
+ORD-00703,2025-10-04,South,Beauty,Moisturizer,2,122.5,0.1,UPI,Returning
+ORD-00704,2025-11-24,East,Electronics,Bluetooth Speaker,2,1306.18,0.0,Card,New
+ORD-00705,2025-03-15,East,Electronics,USB-C Hub,4,4143.01,0.05,UPI,New
+ORD-00706,2025-07-06,Central,Sports,Skipping Rope,4,1480.52,0.0,Cash,New
+ORD-00707,2025-07-03,West,Home & Kitchen,Lunch Box,3,208.94,0.1,UPI,New
+ORD-00708,2025-01-02,South,Sports,Gym Gloves,1,1347.05,0.0,Net Banking,New
+ORD-00709,2025-06-12,South,Clothing,T-Shirt,1,1074.62,0.2,UPI,New
+ORD-00710,2025-06-29,North,Clothing,Hoodie,1,1825.11,0.0,Net Banking,Returning
+ORD-00711,2025-09-13,East,Clothing,T-Shirt,3,1483.99,0.0,UPI,New
+ORD-00712,2025-03-16,South,Clothing,Jeans,2,1277.28,0.05,UPI,New
+ORD-00713,2025-03-17,North,Beauty,Face Wash,1,797.44,0.05,UPI,Returning
+ORD-00714,2025-08-14,North,Home & Kitchen,Water Bottle,5,826.08,0.0,Card,Returning
+ORD-00715,2025-08-10,West,Electronics,Webcam,2,4276.29,0.0,Card,Returning
+ORD-00716,2025-07-26,West,Electronics,Wireless Mouse,1,1661.95,0.05,UPI,New
+ORD-00717,2025-12-13,East,Electronics,USB-C Hub,1,2268.78,0.0,UPI,New
+ORD-00718,2025-07-16,Central,Electronics,Webcam,5,3791.24,0.1,Card,Returning
+ORD-00719,2025-11-23,Central,Sports,Skipping Rope,5,1612.49,0.2,UPI,New
+ORD-00720,2025-09-29,South,Electronics,Webcam,4,1112.95,0.1,Cash,Returning
+ORD-00721,2025-09-19,South,Home & Kitchen,Water Bottle,1,1164.89,0.15,Net Banking,New
+ORD-00722,2025-10-08,North,Electronics,Bluetooth Speaker,2,4133.47,0.0,UPI,New
+ORD-00723,2025-11-03,West,Electronics,Wireless Mouse,2,4015.59,0.15,UPI,New
+ORD-00724,2025-11-26,Central,Beauty,Sunscreen,2,656.53,0.0,UPI,New
+ORD-00725,2025-12-19,South,Clothing,Sports Socks,2,1518.01,0.0,Cash,New
+ORD-00726,2025-11-20,South,Electronics,Bluetooth Speaker,2,2560.65,0.0,UPI,Returning
+ORD-00727,2025-07-08,West,Electronics,Wireless Mouse,3,636.97,0.0,UPI,Returning
+ORD-00728,2025-03-30,Central,Home & Kitchen,Storage Box,2,686.48,0.0,UPI,New
+ORD-00729,2025-12-28,South,Clothing,Sports Socks,3,1013.7,0.15,Card,Returning
+ORD-00730,2025-02-27,Central,Electronics,Bluetooth Speaker,2,3827.6,0.05,Card,Returning
+ORD-00731,2025-10-14,West,Clothing,Hoodie,1,1393.41,0.0,UPI,New
+ORD-00732,2025-11-17,West,Clothing,Sports Socks,2,1050.15,0.1,UPI,New
+ORD-00733,2025-05-09,South,Beauty,Sunscreen,1,609.61,0.1,UPI,New
+ORD-00734,2025-02-16,South,Beauty,Sunscreen,2,555.25,0.15,Card,New
+ORD-00735,2025-04-30,Central,Electronics,Bluetooth Speaker,3,2842.94,0.15,Card,New
+ORD-00736,2025-09-27,South,Sports,Resistance Bands,1,303.07,0.0,UPI,Returning
+ORD-00737,2025-02-15,West,Electronics,Webcam,4,2193.13,0.0,Card,Returning
+ORD-00738,2025-02-10,South,Home & Kitchen,Storage Box,1,905.02,0.0,Card,New
+ORD-00739,2025-06-29,South,Electronics,Bluetooth Speaker,2,3878.54,0.15,Cash,Returning
+ORD-00740,2025-07-23,West,Clothing,Hoodie,1,461.4,0.0,UPI,New
+ORD-00741,2025-11-05,North,Sports,Skipping Rope,4,721.69,0.2,UPI,Returning
+ORD-00742,2025-11-18,East,Electronics,Webcam,2,4425.01,0.1,UPI,New
+ORD-00743,2025-02-06,North,Sports,Yoga Mat,0,557.27,0.0,UPI,New
+ORD-00744,2025-06-03,Central,Home & Kitchen,Water Bottle,1,1136.65,0.05,UPI,New
+ORD-00745,2025-01-26,East,Electronics,Wireless Mouse,2,3999.01,0.0,Card,New
+ORD-00746,2025-09-04,Central,Beauty,Shampoo,2,244.22,0.05,Card,Returning
+ORD-00747,2025-10-29,Central,Sports,Gym Gloves,1,468.75,0.1,UPI,New
+ORD-00748,2025-09-27,West,Beauty,Moisturizer,5,466.72,0.1,UPI,Returning
+ORD-00749,2025-07-18,East,Sports,Gym Gloves,2,1580.31,0.0,UPI,Returning
+ORD-00750,2025-09-13,North,Home & Kitchen,Lunch Box,1,297.14,0.0,UPI,Returning
+ORD-00751,2025-12-27,West,Clothing,Hoodie,3,985.98,0.1,UPI,Returning
+ORD-00752,2025-05-08,East,Home & Kitchen,Storage Box,1,1110.52,0.0,UPI,New
+ORD-00753,2025-01-05,West,Beauty,Moisturizer,2,557.32,0.2,UPI,New
+ORD-00754,2025-09-09,Central,Beauty,Moisturizer,2,872.68,0.15,Net Banking,Returning
+ORD-00755,2025-01-26,Central,Electronics,Wireless Mouse,2,3317.37,0.0,UPI,Returning
+ORD-00756,2025-08-12,South,Sports,Skipping Rope,2,295.63,0.1,UPI,Returning
+ORD-00757,2025-04-11,North,Sports,Yoga Mat,4,741.27,0.0,Cash,Returning
+ORD-00758,2025-08-08,Central,Sports,Skipping Rope,2,670.72,0.05,Net Banking,Returning
+ORD-00759,2025-10-17,Central,Electronics,Bluetooth Speaker,1,1188.71,0.0,Net Banking,New
+ORD-00760,2025-09-17,West,Electronics,Wireless Mouse,2,3553.82,0.0,UPI,Returning
+ORD-00761,2025-03-01,North,Clothing,Sports Socks,3,1793.12,0.2,Card,Returning
+ORD-00762,2025-11-15,East,Clothing,Sports Socks,1,1489.22,0.1,UPI,New
+ORD-00763,2025-09-09,South,Clothing,Sports Socks,1,1880.37,0.0,Net Banking,Returning
+ORD-00764,2025-07-07,West,Clothing,T-Shirt,3,923.89,0.0,Cash,New
+ORD-00765,2025-09-24,West,Home & Kitchen,Water Bottle,3,834.14,0.15,UPI,Returning
+ORD-00766,2025-11-27,South,Home & Kitchen,Water Bottle,4,945.49,0.1,Card,New
+ORD-00767,2025-08-16,North,Clothing,T-Shirt,4,873.49,0.1,Card,New
+ORD-00768,2025-04-11,East,Electronics,Wireless Mouse,4,3711.12,0.2,Cash,New
+ORD-00769,2025-09-12,North,Sports,Yoga Mat,2,1623.1,0.0,Card,Returning
+ORD-00770,2025-11-20,West,Beauty,Shampoo,1,288.36,0.15,Card,Returning
+ORD-00771,2025-02-24,South,Beauty,Face Wash,3,203.68,0.1,Card,Returning
+ORD-00772,2025-10-03,East,Beauty,Moisturizer,2,741.88,0.0,UPI,New
+ORD-00773,2025-09-13,North,Clothing,Hoodie,1,1123.78,0.0,UPI,New
+ORD-00774,2025-12-27,East,Home & Kitchen,Water Bottle,1,522.88,0.0,UPI,Returning
+ORD-00775,2025-10-16,Central,Clothing,Jeans,1,1848.08,0.05,UPI,Returning
+ORD-00776,2025-02-14,South,Clothing,T-Shirt,4,2187.29,0.15,UPI,New
+ORD-00777,2025-03-18,Central,Clothing,T-Shirt,1,1778.03,0.1,UPI,New
+ORD-00778,2025-02-23,Central,Electronics,USB-C Hub,5,4195.4,0.0,UPI,New
+ORD-00779,2025-02-06,Central,Electronics,USB-C Hub,1,1945.69,0.05,UPI,Returning
+ORD-00780,2025-04-20,South,Clothing,Sports Socks,3,1448.84,0.0,Cash,New
+ORD-00781,2025-11-04,South,Home & Kitchen,Desk Lamp,2,1059.81,0.0,Card,Returning
+ORD-00782,2025-12-03,West,Beauty,Face Wash,1,391.22,0.05,UPI,New
+ORD-00783,2025-06-02,Central,Clothing,Hoodie,1,1365.18,0.05,UPI,New
+ORD-00784,2025-04-20,South,Beauty,Face Wash,1,851.69,0.0,Net Banking,Returning
+ORD-00785,2025-05-15,West,Electronics,Webcam,2,713.36,0.0,Card,New
+ORD-00786,2025-09-17,Central,Sports,Skipping Rope,1,680.5,0.1,Net Banking,Returning
+ORD-00787,2025-09-14,South,Clothing,Sports Socks,1,2126.03,0.05,Card,New
+ORD-00788,2025-12-01,North,Electronics,Wireless Mouse,3,4193.54,0.0,Cash,Returning
+ORD-00789,2025-04-08,Central,Beauty,Moisturizer,3,211.25,0.1,Card,New
+ORD-00790,2025-08-27,East,Home & Kitchen,Lunch Box,1,618.08,0.0,UPI,Returning
+ORD-00791,2025-04-12,Central,Clothing,T-Shirt,1,1719.5,0.2,Card,New
+ORD-00792,2025-05-24,East,Sports,Skipping Rope,2,1281.52,0.2,UPI,Returning
+ORD-00793,2025-01-23,East,Clothing,Jeans,4,1138.11,0.15,Net Banking,Returning
+ORD-00794,2025-10-29,North,Electronics,Wireless Mouse,1,1948.73,0.0,UPI,Returning
+ORD-00795,2025-12-29,Central,Home & Kitchen,Lunch Box,3,639.26,0.0,Net Banking,Returning
+ORD-00796,2025-05-11,North,Sports,Skipping Rope,1,1405.93,0.05,Cash,New
+ORD-00797,2025-12-27,West,Clothing,T-Shirt,1,1371.04,0.2,Card,New
+ORD-00798,2025-04-15,South,Beauty,Sunscreen,1,883.65,0.05,UPI,New
+ORD-00799,2025-04-22,West,Clothing,Jeans,3,1906.58,0.2,UPI,Returning
+ORD-00800,2025-06-14,North,Beauty,Face Wash,2,601.91,0.0,UPI,Returning
+ORD-00801,2025-04-04,South,Sports,Gym Gloves,3,1301.76,0.05,Net Banking,Returning
+ORD-00802,2025-04-08,East,Electronics,Webcam,5,3790.54,0.0,Card,Returning
+ORD-00803,2025-11-17,North,Electronics,Webcam,2,3868.37,0.2,Net Banking,New
+ORD-00804,2025-02-15,West,Electronics,Webcam,1,1148.08,0.1,Card,New
+ORD-00805,2025-11-18,South,Beauty,Sunscreen,3,202.38,0.05,UPI,New
+ORD-00806,2025-10-02,Central,Home & Kitchen,Storage Box,4,763.77,0.1,Card,Returning
+ORD-00807,2025-12-04,West,Home & Kitchen,Water Bottle,2,861.17,0.1,UPI,New
+ORD-00808,2025-02-26,East,Electronics,Wireless Mouse,2,2175.59,0.0,UPI,New
+ORD-00809,2025-10-30,North,Home & Kitchen,Desk Lamp,5,342.75,0.05,UPI,Returning
+ORD-00810,2025-08-12,West,Home & Kitchen,Lunch Box,1,718.16,0.0,UPI,New
+ORD-00811,2025-05-23,South,Clothing,T-Shirt,4,2159.24,0.2,Net Banking,Returning
+ORD-00812,2025-05-29,South,Electronics,USB-C Hub,1,3444.62,0.0,Net Banking,Returning
+ORD-00813,2025-08-31,East,Clothing,T-Shirt,2,1842.62,0.05,UPI,Returning
+ORD-00814,2025-09-16,East,Sports,Gym Gloves,3,465.94,0.05,UPI,New
+ORD-00815,2025-12-23,Central,Clothing,Jeans,4,1248.26,0.0,UPI,Returning
+ORD-00816,2025-06-09,South,Clothing,Jeans,5,525.03,0.05,UPI,New
+ORD-00817,2025-10-04,South,Sports,Resistance Bands,1,452.87,0.0,Cash,New
+ORD-00818,2025-04-15,West,Home & Kitchen,Desk Lamp,1,1095.68,0.1,UPI,New
+ORD-00819,2025-04-29,Central,Beauty,Sunscreen,5,701.94,0.0,UPI,Returning
+ORD-00820,2025-01-19,South,Beauty,Moisturizer,3,565.9,0.15,Cash,Returning
+ORD-00821,2025-09-13,West,Clothing,Hoodie,4,881.31,0.05,Card,Returning
+ORD-00822,2025-09-12,North,Beauty,Shampoo,2,320.58,0.0,UPI,New
+ORD-00823,2025-05-15,South,Home & Kitchen,Storage Box,2,1089.08,0.1,Cash,New
+ORD-00824,2025-09-17,South,Beauty,Moisturizer,1,247.88,0.0,UPI,New
+ORD-00825,2025-09-12,Central,Electronics,USB-C Hub,1,2305.58,0.05,Cash,Returning
+ORD-00826,2025-05-16,South,Beauty,Face Wash,4,630.25,0.1,Card,Returning
+ORD-00827,2025-09-19,North,Home & Kitchen,Storage Box,2,339.61,0.0,UPI,Returning
+ORD-00828,2025-08-10,West,Electronics,Wireless Mouse,1,3288.73,0.1,UPI,New
+ORD-00829,2025-03-10,North,Home & Kitchen,Desk Lamp,2,193.54,0.0,UPI,New
+ORD-00830,2025-03-13,North,Clothing,Hoodie,4,352.42,0.05,UPI,Returning
+ORD-00831,2025-11-17,Central,Beauty,Sunscreen,2,770.12,0.05,UPI,Returning
+ORD-00832,2025-05-30,North,Electronics,Wireless Mouse,4,2978.9,0.05,Cash,Returning
+ORD-00833,2025-03-15,West,Beauty,Sunscreen,2,575.15,0.0,UPI,Returning
+ORD-00834,2025-01-28,South,Beauty,Shampoo,2,172.46,0.15,Card,New
+ORD-00835,2025-02-12,North,Electronics,USB-C Hub,2,4441.91,0.15,Cash,New
+ORD-00836,2025-06-18,North,Electronics,Wireless Mouse,1,3259.98,0.1,Card,Returning
+ORD-00837,2025-10-16,East,Sports,Resistance Bands,1,689.49,0.0,UPI,New
+ORD-00838,2025-12-21,East,Electronics,Webcam,3,1125.35,0.1,Card,New
+ORD-00839,2025-07-20,South,Electronics,Bluetooth Speaker,1,552.11,0.05,Card,Returning
+ORD-00840,2025-11-23,East,Home & Kitchen,Desk Lamp,2,1170.27,0.1,Cash,New
+ORD-00841,2025-10-24,South,Home & Kitchen,Water Bottle,1,776.55,0.0,Card,New
+ORD-00842,2025-05-21,West,Electronics,Wireless Mouse,1,1902.75,0.15,UPI,New
+ORD-00843,2025-11-07,West,Home & Kitchen,Storage Box,1,601.86,0.15,UPI,New
+ORD-00844,2025-10-08,Central,Electronics,Wireless Mouse,1,4017.06,0.05,Card,New
+ORD-00845,2025-02-07,South,Electronics,Wireless Mouse,3,3484.02,0.1,Card,Returning
+ORD-00846,2025-06-13,Central,Beauty,Moisturizer,1,231.11,0.15,UPI,Returning
+ORD-00847,2025-12-19,South,Clothing,Sports Socks,1,1767.93,0.05,UPI,Returning
+ORD-00848,2025-06-23,Central,Clothing,Hoodie,1,1022.46,0.1,UPI,New
+ORD-00849,2025-04-21,North,Electronics,Wireless Mouse,5,667.46,0.0,Cash,Returning
+ORD-00850,2025-11-30,North,Clothing,T-Shirt,1,1873.31,0.0,Cash,Returning
+ORD-00851,2025-04-23,South,Beauty,Face Wash,2,917.0,0.0,Net Banking,New
+ORD-00852,2025-07-09,North,Clothing,Jeans,2,589.48,0.1,UPI,Returning
+ORD-00853,2025-01-07,South,Beauty,Moisturizer,3,147.66,0.2,UPI,Returning
+ORD-00854,2025-11-22,East,Home & Kitchen,Desk Lamp,1,889.2,0.2,UPI,Returning
+ORD-00855,2025-12-19,South,Home & Kitchen,Water Bottle,2,528.53,0.0,Card,Returning
+ORD-00856,2025-02-15,West,Clothing,Sports Socks,2,2051.9,0.05,UPI,Returning
+ORD-00857,2025-07-28,North,Beauty,Sunscreen,4,772.39,0.0,UPI,New
+ORD-00858,2025-05-23,East,Beauty,Moisturizer,1,569.95,0.1,Card,Returning
+ORD-00859,2025-10-21,West,Home & Kitchen,Storage Box,1,457.63,0.0,UPI,New
+ORD-00860,2025-01-20,West,Beauty,Sunscreen,2,833.63,0.2,Cash,New
+ORD-00861,2025-08-12,South,Electronics,Webcam,2,2331.98,0.0,UPI,Returning
+ORD-00862,2025-09-17,North,Electronics,Webcam,4,3818.17,0.0,Cash,New
+ORD-00863,2025-01-17,South,Home & Kitchen,Desk Lamp,1,468.91,0.1,Card,Returning
+ORD-00864,2025-12-14,East,Sports,Resistance Bands,4,390.1,0.05,Card,Returning
+ORD-00865,2025-11-26,West,Home & Kitchen,Storage Box,3,388.3,0.15,UPI,New
+ORD-00866,2025-05-14,South,Beauty,Moisturizer,3,422.97,0.0,Cash,New
+ORD-00867,2025-03-01,South,Electronics,Webcam,3,4452.22,0.0,Card,Returning
+ORD-00868,2025-12-01,Central,Sports,Resistance Bands,1,1538.83,0.1,Card,New
+ORD-00869,2025-10-18,West,Electronics,USB-C Hub,1,1253.8,0.1,UPI,New
+ORD-00870,2025-09-28,Central,Electronics,Webcam,4,594.18,0.0,Card,Returning
+ORD-00871,2025-06-11,South,Sports,Skipping Rope,1,460.32,0.15,UPI,New
+ORD-00872,2025-07-02,Central,Home & Kitchen,Desk Lamp,5,175.67,0.1,Card,New
+ORD-00873,2025-05-03,East,Sports,Skipping Rope,1,1721.24,0.0,Card,Returning
+ORD-00874,2025-05-01,North,Clothing,Jeans,1,1388.09,0.1,UPI,Returning
+ORD-00875,2025-08-12,Central,Sports,Resistance Bands,2,1634.77,0.0,UPI,Returning
+ORD-00876,2025-10-15,North,Clothing,Hoodie,5,853.63,0.2,Card,New
+ORD-00877,2025-02-23,South,Clothing,Jeans,1,1632.66,0.1,UPI,New
+ORD-00878,2025-02-13,West,Beauty,Moisturizer,2,165.89,0.1,Cash,New
+ORD-00879,2025-03-28,North,Electronics,Webcam,2,1076.55,0.0,Card,Returning
+ORD-00880,2025-09-08,West,Electronics,USB-C Hub,2,2928.93,0.0,UPI,New
+ORD-00881,2025-10-11,South,Home & Kitchen,Lunch Box,2,986.35,0.15,UPI,Returning
+ORD-00882,2025-07-30,South,Home & Kitchen,Storage Box,3,313.66,0.15,Card,Returning
+ORD-00883,2025-11-08,West,Electronics,Webcam,3,586.94,0.15,Card,New
+ORD-00884,2025-08-07,West,Home & Kitchen,Lunch Box,1,230.87,0.0,UPI,Returning
+ORD-00885,2025-09-23,North,Electronics,USB-C Hub,1,3945.39,0.05,Card,New
+ORD-00886,2025-10-26,North,Clothing,T-Shirt,2,882.12,0.0,UPI,Returning
+ORD-00887,2025-10-07,South,Beauty,Moisturizer,5,299.49,0.15,Card,Returning
+ORD-00888,2025-03-07,South,Electronics,Webcam,1,529.53,0.1,UPI,Returning
+ORD-00889,2025-11-29,North,Sports,Skipping Rope,3,1563.49,0.05,Cash,New
+ORD-00890,2025-12-27,North,Beauty,Shampoo,1,607.85,0.2,UPI,New
+ORD-00891,2025-07-28,South,Clothing,Hoodie,1,1707.84,0.1,UPI,New
+ORD-00892,2025-01-11,West,Clothing,Hoodie,2,834.04,0.15,UPI,Returning
+ORD-00893,2025-09-17,West,Electronics,USB-C Hub,1,3689.38,0.1,Cash,New
+ORD-00894,2025-08-10,Central,Electronics,USB-C Hub,1,1208.72,0.1,Net Banking,New
+ORD-00895,2025-01-07,South,Clothing,T-Shirt,1,1339.02,0.0,Net Banking,Returning
+ORD-00896,2025-03-01,West,Home & Kitchen,Lunch Box,1,710.98,0.15,Net Banking,Returning
+ORD-00897,2025-09-14,West,Electronics,Webcam,5,3986.55,0.15,Card,Returning
+ORD-00898,2025-01-11,South,Electronics,Wireless Mouse,3,806.86,0.0,Card,Returning
+ORD-00899,2025-11-27,Central,Electronics,Bluetooth Speaker,3,4143.61,0.2,Card,New
+ORD-00900,2025-06-17,South,Home & Kitchen,Desk Lamp,1,407.07,0.0,Cash,New
+ORD-00901,2025-08-16,North,Sports,Gym Gloves,2,1389.07,0.15,Card,Returning
+ORD-00902,2025-04-09,South,Clothing,Hoodie,2,1959.16,0.2,UPI,New
+ORD-00903,2025-11-20,South,Home & Kitchen,Desk Lamp,3,1112.87,0.0,UPI,New
+ORD-00904,2025-07-30,South,Beauty,Face Wash,1,560.19,0.1,Net Banking,New
+ORD-00905,2025-11-29,East,Electronics,USB-C Hub,1,1542.7,0.05,UPI,Returning
+ORD-00906,2025-05-29,South,Electronics,Webcam,2,3585.86,0.15,UPI,New
+ORD-00907,2025-01-23,East,Electronics,USB-C Hub,2,642.67,0.05,Net Banking,New
+ORD-00908,2025-04-19,Central,Beauty,Shampoo,1,256.08,0.15,Card,New
+ORD-00909,2025-06-01,Central,Electronics,Webcam,1,2850.6,0.05,Cash,New
+ORD-00910,2025-01-23,West,Home & Kitchen,Lunch Box,2,837.4,0.0,UPI,New
+ORD-00911,2025-11-03,North,Beauty,Shampoo,3,299.34,0.2,UPI,New
+ORD-00912,2025-04-13,North,Electronics,Webcam,2,3187.53,0.0,Cash,New
+ORD-00913,2025-01-25,Central,Electronics,Wireless Mouse,1,1298.77,0.1,UPI,Returning
+ORD-00914,2025-07-16,Central,Sports,Yoga Mat,2,200.96,0.15,Cash,New
+ORD-00915,2025-07-04,East,Beauty,Shampoo,2,842.28,0.1,Card,Returning
+ORD-00916,2025-10-13,Central,Sports,Yoga Mat,2,771.76,0.05,Cash,New
+ORD-00917,2025-03-06,Central,Home & Kitchen,Lunch Box,4,1189.84,0.05,Cash,New
+ORD-00918,2025-08-23,West,Home & Kitchen,Storage Box,3,861.09,0.1,Cash,New
+ORD-00919,2025-02-13,East,Sports,Skipping Rope,3,797.37,0.0,Cash,Returning
+ORD-00920,2025-04-05,East,Sports,Resistance Bands,1,1018.68,0.1,Net Banking,Returning
+ORD-00921,2025-11-08,South,Beauty,Sunscreen,1,353.66,0.05,Card,New
+ORD-00922,2025-07-20,Central,Sports,Yoga Mat,2,1573.25,0.15,UPI,Returning
+ORD-00923,2025-09-04,North,Home & Kitchen,Storage Box,2,1026.95,0.1,UPI,New
+ORD-00924,2025-08-03,North,Sports,Skipping Rope,2,965.74,0.0,UPI,Returning
+ORD-00925,2025-10-14,North,Home & Kitchen,Water Bottle,5,386.94,0.1,UPI,New
+ORD-00926,2025-04-15,South,Electronics,Wireless Mouse,1,793.29,0.15,Cash,New
+ORD-00927,2025-06-04,Central,Sports,Gym Gloves,5,1792.38,0.0,UPI,Returning
+ORD-00928,2025-02-20,South,Beauty,Face Wash,2,786.34,0.15,UPI,Returning
+ORD-00929,2025-12-19,South,Beauty,Moisturizer,3,685.05,0.0,UPI,Returning
+ORD-00930,2025-01-25,Central,Home & Kitchen,Storage Box,5,785.22,0.0,Card,New
+ORD-00931,2025-03-03,South,Clothing,Sports Socks,3,1741.72,0.1,UPI,Returning
+ORD-00932,2025-01-06,East,Clothing,T-Shirt,4,1886.28,0.0,Card,Returning
+ORD-00933,2025-09-08,South,Clothing,Jeans,4,348.4,0.15,UPI,New
+ORD-00934,2025-06-12,Central,Home & Kitchen,Water Bottle,1,1135.6,0.05,Card,Returning
+ORD-00935,2025-05-03,South,Clothing,Jeans,1,785.55,0.1,Cash,New
+ORD-00936,2025-02-19,West,Home & Kitchen,Desk Lamp,2,596.93,0.0,Card,New
+ORD-00937,2025-10-17,South,Sports,Gym Gloves,2,1516.05,0.2,UPI,Returning
+ORD-00938,2025-11-09,South,Beauty,Face Wash,4,935.4,0.05,Card,New
+ORD-00939,2025-05-10,East,Electronics,Bluetooth Speaker,3,2941.07,0.2,Card,New
+ORD-00940,2025-02-09,West,Home & Kitchen,Water Bottle,2,164.38,0.0,Card,Returning
+ORD-00941,2025-09-27,West,Sports,Gym Gloves,2,1260.68,0.1,UPI,Returning
+ORD-00942,2025-07-03,South,Clothing,Sports Socks,3,2144.91,0.1,UPI,Returning
+ORD-00943,2025-01-25,East,Sports,Yoga Mat,3,1351.61,0.0,Card,New
+ORD-00944,2025-12-01,West,Beauty,Moisturizer,3,796.06,0.15,Cash,New
+ORD-00945,2025-09-20,Central,Electronics,Webcam,1,851.27,0.0,Card,Returning
+ORD-00946,2025-12-02,East,Electronics,Wireless Mouse,2,608.14,0.1,UPI,Returning
+ORD-00947,2025-10-02,North,Electronics,Webcam,1,1939.2,0.0,UPI,Returning
+ORD-00948,2025-01-20,North,Electronics,USB-C Hub,1,4207.75,0.05,UPI,New
+ORD-00949,2025-05-20,West,Home & Kitchen,Water Bottle,2,315.61,0.0,Net Banking,New
+ORD-00950,2025-02-27,South,Clothing,Sports Socks,2,1761.7,0.0,Card,New
+ORD-00951,2025-06-25,West,Sports,Yoga Mat,2,566.53,0.15,Card,Returning
+ORD-00952,2025-12-14,South,Home & Kitchen,Lunch Box,1,1174.38,0.1,Card,Returning
+ORD-00953,2025-09-12,West,Home & Kitchen,Lunch Box,2,694.8,0.0,Cash,New
+ORD-00954,2025-04-21,West,Home & Kitchen,Lunch Box,3,807.82,0.2,UPI,New
+ORD-00955,2025-02-27,West,Beauty,Face Wash,3,343.64,0.0,UPI,New
+ORD-00956,2025-01-17,North,Electronics,USB-C Hub,1,3417.94,0.15,Card,New
+ORD-00957,2025-02-01,West,Clothing,T-Shirt,1,629.47,0.05,Net Banking,New
+ORD-00958,2025-06-11,East,Sports,Yoga Mat,2,502.45,0.0,UPI,Returning
+ORD-00959,2025-07-04,South,Sports,Yoga Mat,1,684.76,0.0,UPI,Returning
+ORD-00960,2025-12-31,East,Home & Kitchen,Lunch Box,1,186.35,0.05,UPI,New
+ORD-00961,2025-05-12,Central,Electronics,Webcam,2,2753.81,0.0,Card,Returning
+ORD-00962,2025-11-10,Central,Home & Kitchen,Water Bottle,2,715.51,0.05,Cash,New
+ORD-00963,2025-10-11,West,Home & Kitchen,Lunch Box,2,726.13,0.05,Card,New
+ORD-00964,2025-05-06,South,Home & Kitchen,Desk Lamp,3,329.97,0.0,Card,New
+ORD-00965,2025-02-03,North,Sports,Resistance Bands,3,1323.42,0.0,UPI,New
+ORD-00966,2025-09-06,Central,Home & Kitchen,Desk Lamp,3,502.33,0.05,UPI,New
+ORD-00967,2025-01-01,North,Clothing,Jeans,2,1311.32,0.05,UPI,New
+ORD-00968,2025-01-10,Central,Clothing,Sports Socks,1,2178.11,0.05,Card,New
+ORD-00969,2025-06-10,North,Beauty,Moisturizer,2,219.07,0.05,Net Banking,New
+ORD-00970,2025-04-27,West,Clothing,Jeans,3,1323.49,0.1,Net Banking,Returning
+ORD-00971,2025-11-03,West,Home & Kitchen,Water Bottle,1,976.81,0.0,UPI,New
+ORD-00972,2025-01-21,South,Electronics,Bluetooth Speaker,2,4437.55,0.1,UPI,New
+ORD-00973,2025-03-30,Central,Electronics,Webcam,1,3896.73,0.0,UPI,New
+ORD-00974,2025-09-04,North,Electronics,Webcam,1,3798.76,0.0,UPI,Returning
+ORD-00975,2025-04-02,Central,Electronics,Wireless Mouse,1,1359.09,0.0,UPI,New
+ORD-00976,2025-04-14,West,Sports,Resistance Bands,3,323.61,0.0,UPI,New
+ORD-00977,2025-01-31,North,Home & Kitchen,Storage Box,1,360.14,0.0,UPI,New
+ORD-00978,2025-05-03,West,Electronics,Bluetooth Speaker,1,3312.89,0.0,Card,New
+ORD-00979,2025-12-31,South,Electronics,Bluetooth Speaker,2,1914.62,0.05,UPI,Returning
+ORD-00980,2025-12-18,South,Sports,Gym Gloves,1,728.84,0.0,UPI,New
+ORD-00981,2025-09-01,East,Sports,Gym Gloves,2,641.21,0.15,UPI,Returning
+ORD-00982,2025-11-07,North,Clothing,Jeans,4,1470.88,0.15,UPI,New
+ORD-00983,2025-04-19,South,Beauty,Sunscreen,2,144.56,0.15,Cash,Returning
+ORD-00984,2025-11-17,West,Sports,Skipping Rope,2,225.06,0.05,Cash,New
+ORD-00985,2025-10-09,South,Beauty,Shampoo,3,939.62,0.1,UPI,New
+ORD-00986,2025-02-22,South,Sports,Skipping Rope,1,1264.77,0.0,Card,New
+ORD-00987,2025-09-09,South,Beauty,Moisturizer,1,823.21,0.05,UPI,New
+ORD-00988,2025-05-20,North,Sports,Yoga Mat,1,1455.52,0.15,Net Banking,New
+ORD-00989,2025-02-15,East,Electronics,Bluetooth Speaker,1,3519.59,0.0,Card,New
+ORD-00990,2025-01-24,Central,Electronics,Bluetooth Speaker,5,3173.75,0.0,UPI,New
+ORD-00991,2025-05-23,South,Beauty,Sunscreen,2,372.4,0.0,UPI,New
+ORD-00992,2025-01-01,South,Electronics,Wireless Mouse,5,3867.48,0.15,Card,Returning
+ORD-00993,2025-03-19,East,Home & Kitchen,Water Bottle,3,211.07,0.2,UPI,Returning
+ORD-00994,2025-01-03,East,Clothing,Hoodie,2,356.63,0.0,UPI,Returning
+ORD-00995,2025-01-16,South,Beauty,Sunscreen,1,883.44,0.0,Cash,New
+ORD-00996,2025-12-24,West,Electronics,Bluetooth Speaker,3,547.45,0.0,Card,New
+ORD-00997,2025-01-24,Central,Electronics,Wireless Mouse,1,2800.65,0.05,Card,Returning
+ORD-00998,2025-05-03,West,Electronics,Bluetooth Speaker,4,3455.21,0.05,Net Banking,New
+ORD-00999,2025-09-11,East,Beauty,Face Wash,3,243.78,0.0,Net Banking,New
+ORD-01000,2025-03-15,North,Beauty,Sunscreen,4,936.44,0.0,UPI,Returning
+ORD-01001,2025-12-11,West,Clothing,Hoodie,2,1601.45,0.0,UPI,New
+ORD-01002,2025-04-22,North,Electronics,Webcam,2,3907.88,0.15,UPI,New
+ORD-01003,2025-03-20,South,Home & Kitchen,Water Bottle,2,153.97,0.0,Card,New
+ORD-01004,2025-12-05,North,Home & Kitchen,Storage Box,1,165.69,0.1,Card,New
+ORD-01005,2025-02-10,West,Sports,Resistance Bands,1,988.54,0.2,Card,Returning
+ORD-01006,2025-01-13,North,Electronics,Wireless Mouse,3,2195.12,0.1,Card,Returning
+ORD-01007,2025-11-21,North,Beauty,Shampoo,2,536.59,0.0,Card,New
+ORD-01008,2025-04-18,North,Sports,Resistance Bands,4,714.54,0.05,UPI,Returning
+ORD-01009,2025-05-22,West,Electronics,Wireless Mouse,3,2283.55,0.15,Cash,Returning
+ORD-01010,2025-09-25,West,Electronics,Webcam,4,1990.47,0.0,Card,Returning
+ORD-01011,2025-11-03,West,Clothing,T-Shirt,3,1971.63,0.05,UPI,New
+ORD-01012,2025-07-29,North,Clothing,T-Shirt,1,1358.53,0.0,Card,New
+ORD-01013,2025-01-05,South,Electronics,Wireless Mouse,1,1536.89,0.2,UPI,New
+ORD-01014,2025-03-27,West,Clothing,Jeans,1,1928.57,0.05,UPI,New
+ORD-01015,2025-02-25,West,Electronics,Bluetooth Speaker,2,3288.18,0.15,Net Banking,New
+ORD-01016,2025-09-16,South,Home & Kitchen,Storage Box,2,405.71,0.05,Card,New
+ORD-01017,2025-07-11,East,Home & Kitchen,Storage Box,5,1033.86,0.0,Card,New
+ORD-01018,2025-05-04,North,Electronics,Webcam,1,1227.13,0.15,UPI,Returning
+ORD-01019,2025-07-25,West,Sports,Skipping Rope,1,1440.32,0.15,UPI,Returning
+ORD-01020,2025-05-04,East,Home & Kitchen,Storage Box,1,679.36,0.05,Cash,Returning
+ORD-01021,2025-12-27,North,Home & Kitchen,Lunch Box,1,201.23,0.1,UPI,New
+ORD-01022,2025-12-23,West,Clothing,Jeans,2,1734.42,0.1,Cash,Returning
+ORD-01023,2025-01-02,East,Electronics,Webcam,1,1960.42,0.0,Net Banking,New
+ORD-01024,2025-10-06,Central,Sports,Yoga Mat,1,1209.21,0.05,Card,New
+ORD-01025,2025-05-26,South,Beauty,Moisturizer,1,452.96,0.0,Card,New
+ORD-01026,2025-12-23,North,Sports,Resistance Bands,2,1317.91,0.05,Cash,New
+ORD-01027,2025-10-23,West,Beauty,Sunscreen,1,926.72,0.05,UPI,Returning
+ORD-01028,2025-03-25,East,Home & Kitchen,Desk Lamp,2,1153.51,0.1,Net Banking,New
+ORD-01029,2025-09-07,West,Home & Kitchen,Water Bottle,2,207.62,0.05,Net Banking,Returning
+ORD-01030,2025-12-28,South,Electronics,USB-C Hub,5,603.58,0.0,Card,Returning
+ORD-01031,2025-07-13,West,Clothing,T-Shirt,4,2038.73,0.1,UPI,Returning
+ORD-01032,2025-12-01,North,Home & Kitchen,Water Bottle,4,1069.32,0.05,Cash,Returning
+ORD-01033,2025-04-16,East,Electronics,Wireless Mouse,1,3410.6,0.1,UPI,New
+ORD-01034,2025-01-17,North,Clothing,Sports Socks,2,1936.05,0.1,Card,Returning
+ORD-01035,2025-09-22,North,Sports,Gym Gloves,1,357.75,0.1,UPI,New
+ORD-01036,2025-03-03,South,Beauty,Moisturizer,2,865.8,0.05,Net Banking,New
+ORD-01037,2025-12-24,North,Clothing,T-Shirt,2,871.19,0.0,UPI,New
+ORD-01038,2025-12-05,Central,Home & Kitchen,Desk Lamp,2,520.64,0.0,UPI,Returning
+ORD-01039,2025-01-31,Central,Home & Kitchen,Lunch Box,3,467.76,0.05,Cash,New
+ORD-01040,2025-08-21,East,Beauty,Moisturizer,3,768.36,0.15,Cash,Returning
+ORD-01041,2025-07-30,South,Clothing,Jeans,2,372.34,0.0,UPI,New
+ORD-01042,2025-05-28,North,Clothing,T-Shirt,2,989.72,0.1,Card,New
+ORD-01043,2025-03-02,South,Sports,Gym Gloves,1,212.98,0.15,Card,New
+ORD-01044,2025-02-28,South,Electronics,USB-C Hub,1,2174.27,0.0,UPI,New
+ORD-01045,2025-01-19,North,Electronics,Bluetooth Speaker,2,4335.39,0.0,Card,New
+ORD-01046,2025-03-08,West,Electronics,Webcam,1,2697.01,0.0,Cash,New
+ORD-01047,2025-12-01,West,Beauty,Sunscreen,2,452.26,0.1,UPI,New
+ORD-01048,2025-09-25,North,Home & Kitchen,Water Bottle,2,627.65,0.0,UPI,New
+ORD-01049,2025-04-18,West,Electronics,USB-C Hub,3,2686.51,0.0,Card,Returning
+ORD-01050,2025-10-20,South,Electronics,Webcam,3,1734.96,0.0,UPI,New
+ORD-01051,2025-09-15,South,Electronics,USB-C Hub,1,994.94,0.1,UPI,Returning
+ORD-01052,2025-08-21,West,Beauty,Moisturizer,1,145.12,0.0,UPI,Returning
+ORD-01053,2025-11-17,South,Clothing,T-Shirt,4,1908.57,0.0,UPI,New
+ORD-01054,2025-12-30,West,Electronics,Webcam,2,2610.57,0.2,Net Banking,Returning
+ORD-01055,2025-02-11,South,Sports,Skipping Rope,1,1475.52,0.05,UPI,Returning
+ORD-01056,2025-05-11,Central,Clothing,Sports Socks,3,1886.63,0.0,Card,New
+ORD-01057,2025-08-07,South,Beauty,Moisturizer,3,916.14,0.0,UPI,New
+ORD-01058,2025-12-01,East,Electronics,USB-C Hub,5,2816.55,0.0,Cash,New
+ORD-01059,2025-12-08,Central,Electronics,Wireless Mouse,1,2717.76,0.1,Card,New
+ORD-01060,2025-12-10,North,Sports,Resistance Bands,3,1213.53,0.0,Card,Returning
+ORD-01061,2025-02-14,Central,Sports,Gym Gloves,1,472.42,0.2,UPI,Returning
+ORD-01062,2025-12-05,West,Sports,Yoga Mat,3,1094.52,0.0,Net Banking,Returning
+ORD-01063,2025-09-12,Central,Home & Kitchen,Storage Box,2,930.98,0.05,Cash,Returning
+ORD-01064,2025-01-26,East,Electronics,USB-C Hub,1,3841.32,0.0,Card,Returning
+ORD-01065,2025-11-25,East,Home & Kitchen,Storage Box,4,489.24,0.0,UPI,New
+ORD-01066,2025-08-11,West,Sports,Yoga Mat,2,1215.3,0.1,UPI,New
+ORD-01067,2025-12-26,North,Beauty,Face Wash,4,325.06,0.0,UPI,New
+ORD-01068,2025-01-01,South,Sports,Skipping Rope,1,1490.64,0.0,UPI,New
+ORD-01069,2025-12-19,West,Sports,Yoga Mat,1,606.29,0.05,UPI,New
+ORD-01070,2025-05-25,North,Electronics,Wireless Mouse,1,1229.68,0.15,UPI,New
+ORD-01071,2025-08-07,West,Home & Kitchen,Lunch Box,2,334.24,0.15,UPI,New
+ORD-01072,2025-01-30,West,Electronics,Wireless Mouse,1,3952.12,0.1,UPI,New
+ORD-01073,2025-05-30,Central,Home & Kitchen,Desk Lamp,1,389.87,0.0,UPI,New
+ORD-01074,2025-04-27,West,Electronics,Bluetooth Speaker,1,3869.78,0.1,Cash,New
+ORD-01075,2025-04-19,North,Electronics,Webcam,3,3781.22,0.0,UPI,New
+ORD-01076,2025-08-19,South,Sports,Skipping Rope,2,1208.51,0.05,Cash,Returning
+ORD-01077,2025-08-18,North,Clothing,T-Shirt,1,440.07,0.0,UPI,New
+ORD-01078,2025-02-18,North,Sports,Gym Gloves,1,631.17,0.05,UPI,Returning
+ORD-01079,2025-01-08,West,Sports,Skipping Rope,1,1089.47,0.1,UPI,Returning
+ORD-01080,2025-10-05,South,Clothing,Hoodie,3,1607.55,0.0,Net Banking,New
+ORD-01081,2025-08-10,Central,Beauty,Sunscreen,2,278.54,0.05,UPI,New
+ORD-01082,2025-12-31,North,Home & Kitchen,Water Bottle,2,937.54,0.0,Card,New
+ORD-01083,2025-04-08,South,Home & Kitchen,Desk Lamp,2,441.92,0.0,UPI,New
+ORD-01084,2025-10-06,Central,Clothing,Sports Socks,2,2162.27,0.0,Card,New
+ORD-01085,2025-01-15,West,Beauty,Face Wash,2,378.53,0.1,UPI,New
+ORD-01086,2025-05-31,North,Beauty,Sunscreen,1,664.3,0.15,Card,New
+ORD-01087,2025-11-19,South,Clothing,Sports Socks,2,344.93,0.0,Cash,Returning
+ORD-01088,2025-01-31,North,Sports,Skipping Rope,3,1475.18,0.0,UPI,New
+ORD-01089,2025-06-01,Central,Electronics,Webcam,1,4167.16,0.0,UPI,New
+ORD-01090,2025-01-15,Central,Beauty,Face Wash,4,919.96,0.0,UPI,Returning
+ORD-01091,2025-09-20,West,Sports,Resistance Bands,1,237.8,0.1,UPI,Returning
+ORD-01092,2025-12-20,South,Beauty,Moisturizer,4,882.25,0.1,UPI,Returning
+ORD-01093,2025-06-06,Central,Beauty,Shampoo,2,489.59,0.0,Card,Returning
+ORD-01094,2025-05-25,Central,Beauty,Face Wash,2,633.34,0.0,UPI,New
+ORD-01095,2025-11-02,Central,Beauty,Face Wash,1,214.2,0.1,UPI,New
+ORD-01096,2025-05-26,North,Electronics,Wireless Mouse,5,1040.61,0.15,Card,New
+ORD-01097,2025-03-01,Central,Home & Kitchen,Storage Box,3,914.64,0.15,UPI,New
+ORD-01098,2025-05-24,East,Electronics,USB-C Hub,4,2541.86,0.0,UPI,New
+ORD-01099,2025-05-12,West,Beauty,Sunscreen,1,133.35,0.15,UPI,Returning
+ORD-01100,2025-04-20,South,Beauty,Face Wash,2,470.99,0.1,Cash,Returning
+ORD-01101,2025-06-29,South,Clothing,Jeans,2,1824.26,0.0,Cash,Returning
+ORD-01102,2025-07-08,South,Sports,Yoga Mat,4,1779.28,0.05,UPI,Returning
+ORD-01103,2025-07-01,Central,Electronics,Bluetooth Speaker,1,672.15,0.2,UPI,New
+ORD-01104,2025-07-02,North,Beauty,Sunscreen,1,708.39,0.2,Card,New
+ORD-01105,2025-03-15,Central,Clothing,Jeans,3,1790.64,0.0,Card,New
+ORD-01106,2025-12-30,Central,Home & Kitchen,Lunch Box,4,517.24,0.05,UPI,Returning
+ORD-01107,2025-10-09,South,Sports,Resistance Bands,3,834.39,0.1,UPI,New
+ORD-01108,2025-04-15,North,Home & Kitchen,Storage Box,3,836.35,0.0,Card,New
+ORD-01109,2025-11-11,Central,Sports,Skipping Rope,2,268.43,0.0,UPI,New
+ORD-01110,2025-02-26,South,Electronics,Wireless Mouse,3,1552.35,0.1,UPI,New
+ORD-01111,2025-08-11,North,Clothing,Hoodie,2,1312.06,0.05,UPI,New
+ORD-01112,2025-04-06,Central,Beauty,Face Wash,2,875.12,0.1,Cash,New
+ORD-01113,2025-09-23,North,Sports,Yoga Mat,2,377.33,0.0,Net Banking,New
+ORD-01114,2025-07-14,West,Electronics,USB-C Hub,1,3527.95,0.0,Card,New
+ORD-01115,2025-06-05,West,Home & Kitchen,Lunch Box,3,183.13,0.1,UPI,Returning
+ORD-01116,2025-11-17,Central,Electronics,Webcam,2,919.18,0.15,Card,Returning
+ORD-01117,2025-05-04,South,Beauty,Face Wash,5,667.19,0.1,UPI,New
+ORD-01118,2025-01-10,East,Beauty,Moisturizer,1,663.8,0.05,Card,New
+ORD-01119,2025-03-23,North,Sports,Skipping Rope,1,341.32,0.1,Card,New
+ORD-01120,2025-01-29,South,Clothing,T-Shirt,1,1284.94,0.1,Card,New
+ORD-01121,2025-07-25,East,Clothing,T-Shirt,1,331.57,0.0,UPI,New
+ORD-01122,2025-08-08,East,Electronics,Bluetooth Speaker,1,3462.36,0.0,UPI,New
+ORD-01123,2025-05-26,West,Sports,Resistance Bands,1,1171.56,0.2,UPI,New
+ORD-01124,2025-06-21,East,Home & Kitchen,Water Bottle,3,804.99,0.05,Card,Returning
+ORD-01125,2025-04-01,East,Electronics,USB-C Hub,3,1552.2,0.0,UPI,New
+ORD-01126,2025-06-30,North,Electronics,Bluetooth Speaker,5,4381.03,0.1,UPI,New
+ORD-01127,2025-09-08,West,Beauty,Shampoo,5,262.59,0.15,UPI,New
+ORD-01128,2025-06-10,East,Clothing,Sports Socks,2,960.7,0.15,UPI,New
+ORD-01129,2025-05-27,West,Electronics,Webcam,5,2782.89,0.0,UPI,New
+ORD-01130,2025-08-29,Central,Beauty,Face Wash,1,112.15,0.15,Card,New
+ORD-01131,2025-08-24,East,Sports,Resistance Bands,1,200.47,0.2,UPI,Returning
+ORD-01132,2025-07-02,South,Sports,Yoga Mat,2,1711.53,0.05,Net Banking,New
+ORD-01133,2025-06-05,East,Clothing,Sports Socks,2,1062.0,0.0,Card,New
+ORD-01134,2025-02-10,South,Clothing,Sports Socks,2,516.51,0.1,UPI,Returning
+ORD-01135,2025-01-19,West,Home & Kitchen,Water Bottle,1,1129.47,0.05,UPI,New
+ORD-01136,2025-06-22,West,Home & Kitchen,Lunch Box,1,817.42,0.1,Card,New
+ORD-01137,2025-11-15,East,Home & Kitchen,Desk Lamp,3,417.12,0.05,Card,New
+ORD-01138,2025-04-10,West,Sports,Resistance Bands,2,782.34,0.1,Cash,Returning
+ORD-01139,2025-05-27,East,Sports,Yoga Mat,3,1063.47,0.0,Card,New
+ORD-01140,2025-02-19,North,Sports,Gym Gloves,1,742.92,0.1,Card,Returning
+ORD-01141,2025-06-30,North,Beauty,Shampoo,2,401.21,0.15,UPI,Returning
+ORD-01142,2025-08-26,East,Electronics,Bluetooth Speaker,1,3125.86,0.05,UPI,Returning
+ORD-01143,2025-10-28,East,Beauty,Face Wash,2,928.84,0.0,Net Banking,Returning
+ORD-01144,2025-10-16,West,Sports,Skipping Rope,1,339.57,0.1,UPI,New
+ORD-01145,2025-10-31,East,Electronics,Bluetooth Speaker,1,716.52,0.05,Cash,Returning
+ORD-01146,2025-01-09,North,Sports,Gym Gloves,2,336.72,0.0,Card,New
+ORD-01147,2025-01-12,South,Sports,Yoga Mat,3,211.92,0.15,UPI,Returning
+ORD-01148,2025-06-14,South,Home & Kitchen,Desk Lamp,5,1141.51,0.0,UPI,New
+ORD-01149,2025-02-06,Central,Clothing,T-Shirt,2,901.31,0.2,Card,New
+ORD-01150,2025-10-27,West,Electronics,Wireless Mouse,4,4017.94,0.0,UPI,New
+ORD-01151,2025-05-23,West,Home & Kitchen,Lunch Box,3,652.52,0.1,UPI,Returning
+ORD-01152,2025-09-22,North,Beauty,Shampoo,2,713.14,0.05,UPI,New
+ORD-01153,2025-12-03,North,Beauty,Sunscreen,3,236.75,0.15,UPI,Returning
+ORD-01154,2025-07-04,East,Clothing,T-Shirt,2,403.5,0.05,Cash,New
+ORD-01155,2025-11-22,South,Electronics,Webcam,1,3937.85,0.2,Net Banking,Returning
+ORD-01156,2025-12-17,North,Clothing,Hoodie,3,676.39,0.2,UPI,New
+ORD-01157,2025-07-19,East,Electronics,Bluetooth Speaker,2,2276.68,0.1,Cash,Returning
+ORD-01158,2025-06-15,South,Sports,Resistance Bands,1,964.26,0.05,Cash,Returning
+ORD-01159,2025-01-31,North,Electronics,Bluetooth Speaker,1,1503.32,0.2,Cash,New
+ORD-01160,2025-02-21,South,Beauty,Moisturizer,1,670.07,0.2,Cash,Returning
+ORD-01161,2025-06-18,South,Sports,Resistance Bands,1,508.75,0.0,UPI,New
+ORD-01162,2025-08-26,East,Clothing,Hoodie,1,1643.37,0.1,Card,Returning
+ORD-01163,2025-01-05,North,Electronics,Webcam,3,3544.25,0.05,UPI,Returning
+ORD-01164,2025-09-15,North,Sports,Yoga Mat,3,1350.42,0.05,Card,New
+ORD-01165,2025-09-15,West,Home & Kitchen,Storage Box,4,453.71,0.2,UPI,Returning
+ORD-01166,2025-01-08,North,Home & Kitchen,Storage Box,3,929.41,0.05,Card,New
+ORD-01167,2025-05-21,South,Electronics,Webcam,3,4396.75,0.1,Card,New
+ORD-01168,2025-12-03,Central,Clothing,Hoodie,3,2059.84,0.2,UPI,New
+ORD-01169,2025-11-06,East,Home & Kitchen,Storage Box,1,715.73,0.1,UPI,Returning
+ORD-01170,2025-04-09,South,Electronics,Webcam,5,2174.4,0.0,UPI,Returning
+ORD-01171,2025-06-28,North,Beauty,Moisturizer,1,378.28,0.1,UPI,Returning
+ORD-01172,2025-10-18,North,Home & Kitchen,Lunch Box,1,1174.66,0.0,UPI,New
+ORD-01173,2025-10-03,South,Electronics,Wireless Mouse,3,1987.09,0.1,UPI,New
+ORD-01174,2025-12-11,South,Sports,Resistance Bands,2,1731.41,0.1,Cash,Returning
+ORD-01175,2025-12-18,West,Clothing,Hoodie,1,444.9,0.0,UPI,Returning
+ORD-01176,2025-04-28,West,Beauty,Sunscreen,1,634.94,0.0,UPI,New
+ORD-01177,2025-07-08,East,Electronics,Wireless Mouse,1,1844.97,0.1,UPI,New
+ORD-01178,2025-09-06,West,Home & Kitchen,Storage Box,5,1026.42,0.15,Card,Returning
+ORD-01179,2025-09-08,South,Sports,Gym Gloves,2,353.93,0.1,UPI,Returning
+ORD-01180,2025-10-03,East,Clothing,Hoodie,2,896.86,0.05,UPI,New
+ORD-01181,2025-07-19,South,Electronics,Wireless Mouse,2,2296.75,0.1,UPI,New
+ORD-01182,2025-03-18,West,Sports,Yoga Mat,1,1099.6,0.0,UPI,New
+ORD-01183,2025-07-05,North,Clothing,Hoodie,2,1799.78,0.2,UPI,New
+ORD-01184,2025-02-19,South,Electronics,Bluetooth Speaker,3,3403.68,0.0,UPI,New
+ORD-01185,2025-10-22,South,Home & Kitchen,Storage Box,2,659.15,0.05,Card,Returning
+ORD-01186,2025-11-14,North,Beauty,Sunscreen,1,605.7,0.05,UPI,New
+ORD-01187,2025-01-22,West,Clothing,Jeans,4,886.11,0.05,Card,New
+ORD-01188,2025-09-25,East,Sports,Skipping Rope,2,779.73,0.1,Card,New
+ORD-01189,2025-04-25,Central,Sports,Skipping Rope,1,1290.8,0.05,UPI,New
+ORD-01190,2025-02-13,East,Clothing,Hoodie,2,1490.35,0.0,UPI,Returning
+ORD-01191,2025-07-04,East,Beauty,Face Wash,4,861.68,0.0,UPI,New
+ORD-01192,2025-12-31,West,Home & Kitchen,Water Bottle,3,265.51,0.0,Cash,New
+ORD-01193,2025-05-02,West,Sports,Gym Gloves,3,1798.18,0.0,UPI,New
+ORD-01194,2025-02-13,East,Beauty,Sunscreen,5,524.9,0.1,UPI,New
+ORD-01195,2025-12-22,East,Beauty,Moisturizer,1,728.98,0.05,UPI,Returning
+ORD-01196,2025-10-05,North,Sports,Yoga Mat,1,610.78,0.1,UPI,New
+ORD-01197,2025-01-01,West,Beauty,Face Wash,4,567.08,0.0,Card,Returning
+ORD-01198,2025-10-08,South,Home & Kitchen,Desk Lamp,2,1090.26,0.0,UPI,Returning
+ORD-01199,2025-11-20,West,Sports,Yoga Mat,4,1382.1,0.0,UPI,New
+ORD-01200,2025-12-01,West,Clothing,Hoodie,2,1789.08,0.05,UPI,Returning

@@ -111,7 +111,7 @@ Run the analysis script to generate the results for this dataset. Because this i
 
 ## Author
 
-Add your GitHub profile and contact details here.
+Udaykumar Kotipalli | AI TRAINER
 
 ## Generated sample results
 
